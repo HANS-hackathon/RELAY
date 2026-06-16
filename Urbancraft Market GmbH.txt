@@ -1,0 +1,438 @@
+URBANCRAFT MARKET GMBH – COMPLETE CUSTOMER PACK
+Customer Name: UrbanCraft Market GmbH
+Customer ID: CUST-004
+Industry: Lifestyle Marketplace
+Region: DACH
+Segment: SMB / Small Mid-Market
+Business Model: Marketplace-like E-Commerce Platform
+Primary Sales Channel: Own Online Platform
+Integration Type: Custom Integration
+Payment Setup: Cards, Wallets, Invoice
+Relationship Health: Fragile
+Primary Risk: Relationship Risk
+Growth Potential: Medium
+UrbanCraft Market GmbH
+Customer ID: CUST-004
+Legal Name: UrbanCraft Market GmbH
+Display Name: UrbanCraft Market
+Industry: Lifestyle Marketplace
+Business Model: Marketplace-like E-Commerce Platform
+Region: DACH
+Country of Incorporation: Germany
+Company Size: SMB / Small Mid-Market
+Merchant Status: Live
+Relationship Health: Fragile
+Primary Risk Flag: Relationship Risk
+Growth Potential: Medium
+Integration Type: Custom Integration
+Primary Payment Setup: Cards, Wallets, Invoice
+BNPL Relevant: Yes
+Contract Status: Active
+Service Tier: Standard
+Go-Live Date: 2024-09-30
+Preferred Communication Language: German
+Preferred Contact Channel: Email with follow-up calls 
+Registered Address:
+UrbanCraft Market GmbH
+Reichenberger Straße 51
+10999 Berlin
+Germany
+Billing Address:
+UrbanCraft Market GmbH
+Accounting
+Reichenberger Straße 51
+10999 Berlin
+Germany
+VAT ID: DE298445671
+Commercial Register: HRB 219845 Berlin-Charlottenburg
+Tax Number: 29/654/33210 
+Fake Bank Details:
+Bank Name: Berliner Mittelstandsbank
+IBAN: DE68500300001234567890
+BIC: BMBKDEBBXXX 
+Annual TPV: EUR 8.9 million
+Average Monthly TPV: EUR 742,000
+Peak Monthly TPV: EUR 1.18 million
+Average Order Value: EUR 74
+Monthly Transactions: approx. 10,000
+Mobile Share: 55 %
+Wallet Share: 18 %
+YoY Growth: +9 % 
+General / Main Contact:
+Jana Seifert — Operations Lead — jana.seifert@urbancraft-demo.com
+Billing Contact:
+Mira Lang — Customer Support Manager — mira.lang@urbancraft-demo.com
+Invoice Recipient / Rechnungsempfänger:
+Accounting — accounting@urbancraft-demo.com
+Technical / Live Mail Contact:
+Adrian Voß — Technical Project Contact — adrian.voss@urbancraft-demo.com
+Insights User:
+Jana Seifert — Operations Lead — jana.seifert@urbancraft-demo.com
+Managing Director / Geschäftsführer:
+Felix Krüger — Managing Director — felix.krueger@urbancraft-demo.com
+Beneficial Owner / Wirtschaftlich Berechtigter:
+Felix Krüger — Managing Director — felix.krueger@urbancraft-demo.com
+BNPL Dunning Contact:
+Mira Lang — Customer Support Manager — mira.lang@urbancraft-demo.com
+BNPL Merchant Support Contact:
+Jana Seifert — Operations Lead — jana.seifert@urbancraft-demo.com
+BNPL Merchant Portal User UPL:
+Adrian Voß — Technical Project Contact — adrian.voss@urbancraft-demo.com
+
+________________________________________
+1. Executive Summary
+UrbanCraft Market GmbH ist ein operativ anspruchsvoller Kunde mit mehreren Ansprechpartnern, gemischten Themen und historisch unklaren Zuständigkeiten. Im Zentrum der Beziehung stehen weniger einzelne massive technische Incidents als vielmehr die Summe vieler kleiner und mittlerer Friktionen: offene Support-Fälle, fehlende Zwischenupdates, vermischte Zuständigkeiten, unklare Ownership und dadurch wiederkehrender Frust im Tagesgeschäft.
+Der Kunde ist nicht grundsätzlich gegen die Zusammenarbeit eingestellt. Im Gegenteil: Immer dann, wenn Struktur, Verlässlichkeit und Transparenz sichtbar verbessert wurden, war die Reaktion positiv. Das bedeutet, dass UrbanCraft kein klassischer “verlorener” Kunde ist, sondern ein Fall, in dem Relationship Repair, Governance und klare Steuerung besonders wichtig sind.
+Die größte Gefahr liegt nicht in einem einzelnen technischen Problem, sondern in kumuliertem Vertrauensverlust. Gleichzeitig liegt genau darin auch die Chance: Schon moderate Verbesserungen in Zuständigkeit, Nachverfolgung und Regelkommunikation zeigen bei diesem Kunden spürbar positive Wirkung.
+________________________________________
+2. Account Overview
+UrbanCraft Market GmbH ist in der täglichen Zusammenarbeit deutlich weniger strukturiert als die anderen Beispielkunden. Themen kommen oft parallel aus verschiedenen Richtungen, Ansprechpartner wechseln, und operative, technische sowie kaufmännische Anliegen werden nicht immer sauber voneinander getrennt.
+Der Kunde erlebt Probleme daher häufig nicht als isolierte Einzelfälle, sondern als Ausdruck mangelnder Steuerung insgesamt. Selbst wenn einzelne Sachthemen lösbar sind, entsteht Frust, wenn:
+•	Rückmeldungen ausbleiben,
+•	kein klarer Owner sichtbar ist,
+•	mehrere Themen unverbunden nebeneinander laufen,
+•	oder Ansprechpartner wechseln, ohne dass Kontext sauber übergeben wird.
+Erfolgsfaktoren in der Betreuung:
+1.	klare zentrale Ownership
+2.	offene Punkte sichtbar bündeln
+3.	regelmäßige Status-Kommunikation
+4.	eindeutige Trennung von Tech-, Finance- und Relationship-Themen
+5.	Deeskalation über Struktur statt über Einzelversprechen
+________________________________________
+3. Key Stakeholders
+Jana Seifert – Operations Lead
+•	wichtigste operative Ansprechpartnerin
+•	meldet viele Themen gleichzeitig
+•	reagiert positiv auf strukturierte Nachverfolgung
+•	eskaliert bei Funkstille oder fehlender Ownership
+Felix Krüger – Managing Director
+•	kommt bei Eskalationen oder strategischen Frustlagen hinzu
+•	erwartet Verbindlichkeit, Klarheit und professionelles Auftreten
+•	weniger im Tagesgeschäft, aber sehr relevant in kritischen Phasen
+Mira Lang – Customer Support Manager
+•	bringt operative Probleme aus dem Tagesgeschäft ein
+•	meldet Support-Backlogs und Kundenbeschwerden
+•	wichtig für laufende Prozessverbesserung
+Adrian Voß – Technical Project Contact
+•	Ansprechpartner für technische Einordnung
+•	kann Probleme sachlich erklären, ist aber nicht immer verfügbar
+•	nicht immer Treiber, eher fachlicher Enabler
+________________________________________
+4. Business Snapshot
+Commercial Overview
+UrbanCraft Market GmbH ist kleiner als die anderen Kunden im Portfolio, aber nicht unbedeutend. Das Geschäft ist weniger volumenstark, dafür betreuungsintensiver. Der Kunde bindet überproportional viel Kommunikationsaufwand, weil operative Steuerung und Ownership schwächer ausgeprägt sind.
+Core Business Metrics
+Annual TPV (last 12 months): EUR 8.9 million
+Average monthly TPV: EUR 742,000
+Peak month TPV: EUR 1.18 million
+Average order value: EUR 74
+Average monthly transaction count: approx. 10,000
+Peak month transaction count: approx. 15,600
+Refund rate: 3.8 %
+Chargeback rate: 0.28 %
+Channel and Payment Mix
+Share of mobile transactions: 55 %
+Share of desktop transactions: 45 %
+Payment Method Mix
+•	Cards: 47 %
+•	Wallets: 18 %
+•	Invoice: 35 %
+Operational KPIs
+Average checkout completion rate: 66.8 %
+Authorization success rate: 91.9 %
+Support sensitivity: very high
+Ownership clarity: historically low, improving with structured governance
+Growth Metrics
+Year-over-year TPV growth: +9 %
+Projected TPV next 12 months: EUR 9.3–10.1 million
+Estimated upside through better operational stability and payment expansion: EUR 0.8–1.4 million annual TPV
+________________________________________
+5. Relationship and Incident Impact Summary
+Issue Cluster 1: Missing ownership
+Der häufigste Frustpunkt ist nicht das eigentliche Sachthema, sondern die Wahrnehmung, dass niemand es wirklich end-to-end verantwortet.
+Issue Cluster 2: Support backlog and no status updates
+Mehrere Fälle wurden vom Kunden als “liegen geblieben” erlebt. Selbst dann, wenn intern an Themen gearbeitet wurde, war dies auf Kundenseite oft nicht sichtbar.
+Issue Cluster 3: Mixed topic categories
+Billing-Fragen, technische Themen und Account-Fragen werden oft in denselben Kommunikationssträngen vermischt. Das erschwert Priorisierung und verstärkt den Eindruck von Chaos.
+Illustrative Impact
+Relationship-driven risk pattern
+•	repeated moderate frustration
+•	recurring complaints about responsiveness
+•	internal customer uncertainty about who to contact
+•	elevated churn risk not due to one event, but due to cumulative experience
+________________________________________
+6. Commercial and Growth View
+Current Commercial Position
+Current blended fee rate: 1.96 %
+Commercial status: stable but not strategically strong
+Pricing pressure: low to medium
+Negotiation style: relationship-sensitive, less data-driven than larger accounts
+Growth Potential
+UrbanCraft bietet moderates Wachstumspotenzial in:
+•	zusätzlicher Payment-Strukturierung
+•	besserer operativer Steuerung
+•	punktuellem Ausbau von Zahlarten
+•	klareren Review- und Governance-Formaten
+Strategic Opportunities
+1. Relationship repair through governance
+Der größte Hebel liegt zunächst nicht in Pricing oder Features, sondern in verlässlicher Zusammenarbeit.
+2. Open issues operating model
+Ein klarer Rhythmus mit zentralem Owner könnte die Lage deutlich verbessern.
+3. Selective payment expansion
+Wenn die Beziehung stabiler wird, ist auch ein zusätzlicher Ausbau realistischer.
+________________________________________
+7. Handover Briefing
+Current State
+Die Beziehung ist fragil, aber verbesserbar. Kunde ist nicht grundsätzlich abwanderungsbereit, jedoch schnell frustriert, wenn Themen unklar liegen bleiben oder niemand sichtbar Verantwortung übernimmt.
+What a new Account Manager must know
+•	Ownership ist bei diesem Kunden wichtiger als Perfektion
+•	selbst kleine Themen können eskalieren, wenn sie ohne Update bleiben
+•	der Kunde braucht Übersicht und Verbindlichkeit
+•	Eskalationen entstehen oft aus Kommunikationslücken, nicht aus technischen Großproblemen
+•	positive Wirkung entsteht schnell, wenn Struktur sichtbar wird
+Current Risks
+•	kumulierter Vertrauensverlust
+•	wahrgenommene Nicht-Erreichbarkeit
+•	eskalierende Frustration über offene Support-Fälle
+•	Vermischung von Themen ohne Priorisierung
+Current Opportunities
+•	zentrale Steuerung aller offenen Themen
+•	klare Ansprechpartnerstruktur
+•	regelmäßige Status-Routine
+•	mittelfristiger Ausbau bei stabilerer Beziehung
+________________________________________
+8. Open Issues Summary
+1.	zentrale Ownership für alle offenen Themen sichtbar machen 
+2.	offene Support-Fälle konsolidiert nachhalten 
+3.	klare Eskalations- und Rückmeldewege definieren 
+4.	Billing-, Tech- und Relationship-Themen trennen 
+5.	regelmäßigen Statusrhythmus mit Kunde etablieren
+________________________________________
+9. Communication History – Detailed Extract
+________________________________________
+1. 2024-09-03 – Email – Erste Abstimmung und Bitte um klare Ansprechpartner
+Sentiment: Neutral
+Topic: Onboarding / Ownership
+Hallo zusammen,
+bevor wir tiefer in die Zusammenarbeit einsteigen, wäre es für uns hilfreich, einen klaren Überblick über die Ansprechpartner und Zuständigkeiten zu bekommen. In der Vergangenheit haben wir die Erfahrung gemacht, dass Themen unnötig lang dauern, wenn nicht von Anfang an klar ist, wer welchen Bereich verantwortet.
+Wenn wir das direkt sauber aufsetzen können, würde uns das in der laufenden Zusammenarbeit sehr helfen.
+Viele Grüße
+Jana Seifert
+________________________________________
+2. 2024-09-09 – Email – Rückfrage zu technischem Setup und operativer Betreuung
+Sentiment: Neutral
+Topic: Setup / Governance
+Hallo,
+wir würden gern besser verstehen, wie sich die technische Einbindung und die spätere operative Betreuung zueinander verhalten. Für uns ist relevant, ob technische Rückfragen später über dieselben Kontakte laufen oder ob es dafür einen getrennten Prozess gibt.
+Da wir intern keine große Spezialistenstruktur haben, hilft uns eine möglichst einfache und klare Regelung.
+Danke
+Adrian Voß
+________________________________________
+3. 2024-09-17 – Call Note – Frühe Abstimmung zur Zusammenarbeit
+Sentiment: Neutral
+Topic: Relationship Setup
+Kunde fragt früh nach Klarheit in Zuständigkeiten. Bereits in dieser Phase zeigt sich, dass UrbanCraft weniger nach Fachdetails fragt als nach Handhabbarkeit und Erreichbarkeit.
+________________________________________
+4. 2024-10-04 – Email – Offene Frage zum Checkout-Verhalten
+Sentiment: Neutral
+Topic: Checkout Question
+Hallo zusammen,
+wir haben eine Rückfrage zur Darstellung einzelner Zahlungsarten im Checkout. Es handelt sich nicht um einen akuten Fehler, aber wir möchten verstehen, warum bestimmte Optionen aus Kundensicht nicht immer gleich sichtbar erscheinen.
+Falls ihr dazu eine kurze Einordnung geben könnt, wäre das super.
+Viele Grüße
+Jana
+________________________________________
+5. 2024-10-16 – Email – Bisher kein Update zu offenem Punkt
+Sentiment: Negative
+Topic: Support Backlog
+Hallo,
+wir hatten vor einigen Tagen eine Rückfrage zum Checkout-Verhalten gestellt und bislang noch keine belastbare Rückmeldung erhalten. Es muss nicht alles sofort abschließend gelöst sein, aber wir würden zumindest gern wissen, wo das Thema aktuell liegt und wer es bearbeitet.
+Ohne Zwischenstand ist es für uns intern schwer, das Thema einzuordnen.
+Viele Grüße
+Mira Lang
+________________________________________
+6. 2024-10-18 – Call Note – Frust über fehlende Zwischenstände
+Sentiment: Negative
+Topic: Responsiveness
+Kunde zeigt sich früh unzufrieden über fehlende Updates. Inhaltlich ist das Thema klein, emotional aber relevant, weil es als Beispiel für unklare Betreuung wahrgenommen wird.
+________________________________________
+7. 2024-11-06 – Email – Mehrere offene Themen ohne klare Zuordnung
+Sentiment: Negative
+Topic: Ownership
+Hallo zusammen,
+aktuell haben wir den Eindruck, dass mehrere unserer Themen parallel offen sind, ohne dass für uns klar erkennbar ist, wer sie jeweils konkret übernimmt. Das betrifft sowohl eine technische Rückfrage als auch eine Frage zur Abrechnung und eine allgemeine Bitte um Rückmeldung zum weiteren Vorgehen.
+Es wäre für uns sehr hilfreich, wenn wir hierzu eine konsolidierte Übersicht erhalten könnten.
+Viele Grüße
+Jana Seifert
+________________________________________
+8. 2024-11-08 – Email – Bitte um Rückruf zur Klärung der Zuständigkeiten
+Sentiment: Negative
+Topic: Account Management
+Hallo,
+wir würden gern kurzfristig telefonisch besprechen, wie wir die Zuständigkeiten in der laufenden Zusammenarbeit klarer aufsetzen können. Aus unserer Sicht entstehen aktuell weniger Probleme durch die eigentlichen Themen, sondern eher dadurch, dass wir bei Rückfragen nicht immer wissen, an wen wir uns verbindlich halten sollen.
+Bitte gebt uns Bescheid, wann ein kurzer Austausch möglich ist.
+Viele Grüße
+Felix Krüger
+________________________________________
+9. 2024-11-11 – Call Note – Deeskalation und Klärung der Rollen
+Sentiment: Negative
+Topic: Relationship Repair
+Gespräch mit Felix Krüger und Jana Seifert. Kunde macht klar, dass die eigentlichen Sachthemen sekundär geworden sind; zentral ist die Wahrnehmung mangelnder Steuerung. Erwartet wird ein einfaches, nachvollziehbares Modell mit primärem Ansprechpartner und sichtbarer Nachverfolgung.
+________________________________________
+10. 2024-11-21 – Email – Danke für die erste strukturierte Übersicht
+Sentiment: Positive
+Topic: Praise / Governance
+Hallo zusammen,
+vielen Dank für die zuletzt geschickte Übersicht der offenen Punkte. Das wirkt deutlich strukturierter als die Abstimmung zuvor und hilft uns intern sehr, die Themen sauber zuzuordnen.
+Wenn wir diese Art der Nachverfolgung beibehalten können, wäre das aus unserer Sicht ein großer Fortschritt.
+Viele Grüße
+Jana
+________________________________________
+11. 2025-01-20 – Email – Kein Update zu offenem Support-Fall
+Sentiment: Negative
+Topic: Support Backlog
+Hallo,
+zum offenen Support-Fall vom vergangenen Mittwoch haben wir bisher kein verwertbares Update erhalten. Wir verstehen, dass die Bearbeitung Zeit in Anspruch nehmen kann, aber ohne einen Zwischenstand oder eine Aussage zum nächsten Schritt bleibt das Thema bei uns einfach “hängen”.
+Könnt ihr bitte prüfen, wo der Fall aktuell liegt und wer ihn konkret begleitet?
+Danke
+Mira Lang
+________________________________________
+12. 2025-02-07 – Email – Mehrfach keine Rückmeldung zu offenen Themen
+Sentiment: Escalated
+Topic: Account Management / Responsiveness
+Hallo,
+wir haben nun mehrfach versucht, zu mehreren offenen Themen eine Rückmeldung zu erhalten, leider bislang ohne klares Update. Offen sind weiterhin eine Rückfrage zur fehlerhaften Abrechnung sowie ein technisches Thema rund um die Verfügbarkeit einzelner Zahlarten.
+Bitte gebt uns heute noch eine klare Rückmeldung, wer diese Themen übernimmt, wo sie aktuell stehen und bis wann wir realistischerweise mit Antworten rechnen können. In der aktuellen Form ist das für uns intern nur schwer vermittelbar.
+Viele Grüße
+Jana Seifert
+________________________________________
+13. 2025-02-07 – Call Note – Deeskalation und Klärung der Zuständigkeiten
+Sentiment: Negative
+Topic: Relationship Repair
+Gespräch diente der Deeskalation. Kunde fühlt sich nicht ausreichend betreut und bemängelt fehlende Transparenz über den Status mehrerer Anliegen. Es wurde deutlich, dass nicht die inhaltliche Komplexität das Hauptproblem ist, sondern das Gefühl, dass Themen nicht sichtbar geführt werden.
+Vereinbart:
+•	Übersicht aller offenen Punkte
+•	primären Ansprechpartner benennen
+•	Regeltermin prüfen
+________________________________________
+14. 2025-02-13 – Email – Bitte um konsolidierte Liste aller offenen Punkte
+Sentiment: Neutral
+Topic: Open Issues Management
+Hallo zusammen,
+wie besprochen wäre es für uns wichtig, alle aktuell offenen Themen einmal gebündelt in einer Liste zu sehen. Nur so können wir intern sauber nachvollziehen, welche Punkte sich bereits in Bearbeitung befinden, wo wir auf Rückmeldung warten und was eventuell noch zusätzliche Informationen von unserer Seite benötigt.
+Eine solche Übersicht würde aus unserer Sicht bereits viel zur Beruhigung der Lage beitragen.
+Viele Grüße
+Jana
+________________________________________
+15. 2025-03-05 – Meeting Note – Review offener Themen und Betreuungsmodell
+Sentiment: Neutral
+Topic: Relationship Repair / Operational Alignment
+Meeting fokussierte auf Transparenz, Priorisierung und Wiederherstellung einer funktionierenden Arbeitsbeziehung. Felix Krüger betonte, dass UrbanCraft keine perfekte Welt erwarte, wohl aber ein nachvollziehbares System, in dem Themen nicht “verschwinden”.
+Besprochene Punkte:
+•	konsolidierte Open-Issues-Liste
+•	Eigentümer je Thema
+•	Eskalationsweg
+•	Statusrhythmus für kommende Wochen
+________________________________________
+16. 2025-03-10 – Email – Danke für die strukturierte Nachverfolgung
+Sentiment: Positive
+Topic: Praise
+Hallo zusammen,
+danke für die strukturierte Übersicht der offenen Punkte. Das hilft uns intern deutlich weiter und ist ein klarer Fortschritt gegenüber den letzten Wochen. Insbesondere ist für uns hilfreich, dass jetzt je Thema erkennbar ist, ob es sich um einen technischen, operativen oder abrechnungsbezogenen Punkt handelt.
+Wenn wir diese Transparenz halten, sollten sich viele unnötige Schleifen vermeiden lassen.
+Viele Grüße
+Jana
+________________________________________
+17. 2025-03-18 – Call Note – Abstimmung zu Abrechnung und Ownership
+Sentiment: Neutral
+Topic: Operational Alignment
+Besprochen wurden offene Billing-Rückfragen sowie der Wunsch des Kunden nach einer dauerhaften klaren Zuständigkeit für operative Themen. Kunde wirkt deutlich ruhiger als noch im Februar, bleibt aber vorsichtig.
+________________________________________
+18. 2025-04-03 – Email – Frage zur weiteren Entwicklung der Zusammenarbeit
+Sentiment: Neutral
+Topic: Relationship / Growth
+Hallo,
+nachdem sich die Lage zuletzt etwas stabilisiert hat, würden wir gern besser verstehen, wie wir die Zusammenarbeit künftig aufstellen können, damit wir nicht immer erst in Situationen reagieren, in denen bereits Frust entstanden ist.
+Für uns wäre interessant, ob wir einen regelmäßigen Abstimmungsmodus etablieren können, der offene Themen, kleinere Rückfragen und mögliche Ausbaupunkte sinnvoll zusammenführt.
+Viele Grüße
+Felix Krüger
+________________________________________
+19. 2025-04-14 – Email – Kleine Billing-Rückfrage, diesmal gut lösbar
+Sentiment: Neutral
+Topic: Billing
+Hallo zusammen,
+wir haben noch eine kleinere Rückfrage zu einer Abrechnungsposition aus dem letzten Reporting. Das Thema wirkt diesmal nicht kritisch, wir wollten aber kurz anmerken, dass die deutlich klarere Zuordnung und Sichtbarkeit der Themen uns die interne Einordnung inzwischen wesentlich erleichtert.
+Wenn wir hierzu noch die genaue Erläuterung bekommen, sollten wir den Punkt schnell schließen können.
+Viele Grüße
+Jana
+________________________________________
+20. 2025-05-02 – Email – Positive Entwicklung in der Betreuung sichtbar
+Sentiment: Positive
+Topic: Relationship Improvement
+Hallo zusammen,
+wir wollten kurz zurückspiegeln, dass sich die Betreuung in den letzten Wochen aus unserer Sicht spürbar verbessert hat. Vor allem die klare Übersicht offener Punkte und die sichtbarere Zuständigkeit machen für uns einen großen Unterschied.
+Es gibt weiterhin Themen, die wir sauber weiterführen müssen, aber die Richtung stimmt und erleichtert uns die Zusammenarbeit deutlich.
+Viele Grüße
+Felix Krüger
+________________________________________
+21. 2025-05-15 – Call Note – Review des neuen Status-Rhythmus
+Sentiment: Positive
+Topic: Governance Review
+Kunde bestätigt, dass regelmäßige kurze Statusupdates deutlich besser funktionieren als unstrukturierte Einzelkommunikation. Gute Grundlage für weitere Stabilisierung.
+________________________________________
+22. 2025-05-21 – Email – Interesse an zusätzlicher Zahlungsoption bei stabilerer Basis
+Sentiment: Positive
+Topic: Growth / Expansion
+Hallo,
+wenn wir die aktuell verbesserte Struktur in der Zusammenarbeit beibehalten können, würden wir mittelfristig auch gern auf die Frage schauen, ob zusätzliche Zahlungsoptionen für bestimmte Nutzergruppen sinnvoll wären. Für uns ist das aktuell kein Sofort-Thema, aber wir würden es gern auf Sicht aufnehmen.
+Wichtig wäre für uns dabei, dass die operative Basis weiter stabil bleibt.
+Viele Grüße
+Jana
+________________________________________
+23. 2025-05-27 – Email – Danke für verlässliche Rückmeldungen in letzter Zeit
+Sentiment: Positive
+Topic: Praise / Trust Repair
+Hallo zusammen,
+nur ein kurzes Feedback von unserer Seite: In den letzten Wochen hatten wir deutlich weniger das Gefühl, Themen “hinterherlaufen” zu müssen. Das allein macht für uns schon einen erheblichen Unterschied in der täglichen Zusammenarbeit.
+Vielen Dank für die verlässlichere Kommunikation.
+Viele Grüße
+Mira
+________________________________________
+24. 2025-05-30 – Email – Wunsch nach dauerhaftem Ownership-Modell
+Sentiment: Positive
+Topic: Operating Model
+Hallo,
+zum Monatsende noch ein Punkt, den wir gern festhalten möchten: Die aktuelle Arbeitsweise funktioniert für uns deutlich besser als die frühere, insbesondere weil Zuständigkeiten sichtbarer geworden sind. Für uns wäre es wichtig, dass dieses Modell nicht nur eine kurzfristige Reaktion auf Eskalationen bleibt, sondern dauerhaft so gelebt wird.
+Wenn das gelingt, sehen wir auch eine gute Basis für die Weiterentwicklung der Zusammenarbeit.
+Viele Grüße
+Felix Krüger
+________________________________________
+10. Relationship Assessment
+Strengths
+•	Beziehung ist reparierbar
+•	Kunde reagiert schnell positiv auf mehr Struktur
+•	klarer Hebel über Governance statt reine Produktdiskussion
+•	gutes Potenzial für Stabilisierung
+Weaknesses
+•	historisch geringe Ownership-Klarheit
+•	Support-Frust bleibt lange im Gedächtnis
+•	viele kleine Themen addieren sich zu großem Frust
+•	mehrere Stakeholder ohne starke interne Struktur
+Churn Risk
+Medium
+Growth Potential
+Medium
+Recommended Handling Style
+•	verbindlich
+•	sichtbar strukturiert
+•	ownership-stark
+•	ruhig und deeskalierend
+•	mit konsolidierten Open-Issues-Listen
+________________________________________
+11. Recommended Next Actions
+1.	dauerhaftes zentral sichtbares Ownership-Modell etablieren 
+2.	wöchentlichen oder zweiwöchentlichen Open-Issues-Rhythmus beibehalten 
+3.	Billing-, Tech- und Support-Themen sauber trennen 
+4.	Eskalationspfad für kritische Fälle dokumentieren 
+5.	erst nach Stabilisierung gezielt Ausbau- und Wachstumsthemen platzieren
+

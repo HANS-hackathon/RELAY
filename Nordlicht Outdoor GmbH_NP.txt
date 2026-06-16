@@ -1,0 +1,477 @@
+NORDLICHT OUTDOOR GMBH – COMPLETE CUSTOMER PACK
+Customer Name: Nordlicht Outdoor GmbH
+Customer ID: CUST-001
+Industry: Outdoor E-Commerce
+Region: DACH
+Segment: Mid-Market
+Business Model: B2C Online Retail
+Primary Channel: Own Online Shop
+Integration Type: Shopware Plugin
+Payment Setup: Cards, Wallets, Invoice
+Relationship Health: Medium
+Primary Risk: Revenue Risk
+Growth Potential: High
+Nordlicht Outdoor GmbH
+Customer ID: CUST-001
+Legal Name: Nordlicht Outdoor GmbH
+Display Name: Nordlicht Outdoor
+Industry: Outdoor E-Commerce
+Business Model: B2C Online Retail
+Region: DACH
+Country of Incorporation: Germany
+Company Size: Mid-Market
+Merchant Status: Live
+Relationship Health: Medium
+Primary Risk Flag: Revenue Risk
+Growth Potential: High
+Integration Type: Shopware Plugin
+Primary Payment Setup: Cards, Wallets, Invoice
+BNPL Relevant: Yes
+Contract Status: Active
+Service Tier: Standard Plus
+Go-Live Date: 2024-10-21
+Preferred Communication Language: German / English mixed
+Preferred Contact Channel: Email first, call during incidents 
+Registered Address:
+Nordlicht Outdoor GmbH
+Schanzenstraße 18
+20357 Hamburg
+Germany
+Billing Address:
+Nordlicht Outdoor GmbH
+Finance Department
+Schanzenstraße 18
+20357 Hamburg
+Germany
+VAT ID: DE321456789
+Commercial Register: HRB 184562 Hamburg
+Tax Number: 47/123/45678 
+Fake Bank Details:
+Bank Name: Hanseatische Gewerbebank
+IBAN: DE44500105175407324931
+BIC: HAGBDEHHXXX 
+Annual TPV: EUR 18.4 million
+Average Monthly TPV: EUR 1.53 million
+Peak Monthly TPV: EUR 2.60 million
+Average Order Value: EUR 86
+Monthly Transactions: approx. 17,800
+Mobile Share: 64 %
+Wallet Share: 22 %
+YoY Growth: +28 % 
+General / Main Contact:
+Lena Hoffmann — E-Commerce Lead — lena.hoffmann@nordlicht-outdoor-demo.com
+Billing Contact:
+Markus Feld — Finance Manager — markus.feld@nordlicht-outdoor-demo.com
+Invoice Recipient / Rechnungsempfänger:
+Finance / Accounts Payable — ap@nordlicht-outdoor-demo.com
+Technical / Live Mail Contact:
+Paul Jensen — Tech Lead — paul.jensen@nordlicht-outdoor-demo.com
+Insights User:
+Nina Roth — CRM / Marketing Manager — nina.roth@nordlicht-outdoor-demo.com
+Managing Director / Geschäftsführer:
+Florian Berg — Managing Director — florian.berg@nordlicht-outdoor-demo.com
+Beneficial Owner / Wirtschaftlich Berechtigter:
+Florian Berg — Managing Director — florian.berg@nordlicht-outdoor-demo.com
+BNPL Dunning Contact:
+Markus Feld — Finance Manager — markus.feld@nordlicht-outdoor-demo.com
+BNPL Merchant Support Contact:
+Lena Hoffmann — E-Commerce Lead — lena.hoffmann@nordlicht-outdoor-demo.com
+BNPL Merchant Portal User UPL:
+Tim Becker — Shop Manager — tim.becker@nordlicht-outdoor-demo.com
+
+________________________________________
+1. Executive Summary
+Nordlicht Outdoor GmbH ist ein wachsender Outdoor- und Camping-Händler mit stark saisonalem Geschäft und hoher Sensibilität für Mobile Conversion und Checkout-Stabilität. Wallets spielen für den Kunden eine überdurchschnittlich wichtige Rolle, insbesondere Google Pay und Apple Pay, da ein großer Teil des Traffics über mobile Geräte kommt.
+Die Kundenbeziehung ist insgesamt positiv und ausbaufähig, war jedoch mehrfach durch technische Vorfälle belastet. Besonders kritisch waren ein Wallet-Sichtbarkeitsproblem im Januar sowie Checkout-Probleme nach einem Plugin-Update im Februar. Beide Vorfälle hatten spürbare Auswirkungen auf die Stimmung des Kunden und wurden intern beim Kunden mit Umsatz- und Conversion-Risiko verbunden.
+Trotz dieser Friktionen ist Nordlicht Outdoor GmbH ein attraktiver Kunde mit Wachstumsperspektive. Der Kunde zeigt Interesse an zusätzlicher Payment-Optimierung, KPI-basiertem Austausch, weiteren Zahlarten und potenziell auch an Internationalisierung.
+________________________________________
+2. Account Overview
+Nordlicht Outdoor GmbH ist stark performance-orientiert und betrachtet Payment nicht nur als technische Infrastruktur, sondern als Umsatzhebel. Die Ansprechpartner auf Kundenseite arbeiten datengetrieben und erwarten bei Problemen eine Kommunikation, die nicht nur technische Details, sondern vor allem den Business-Impact adressiert.
+Aus Sicht der Zusammenarbeit gibt es drei Erfolgsfaktoren:
+1.	schnelle Incident-Kommunikation
+2.	klare Zuständigkeiten zwischen Support und Account Management
+3.	frühzeitige Risikoansprache bei Änderungen und Releases
+Technische Probleme werden vom Kunden toleriert, solange:
+•	schnell reagiert wird,
+•	eine plausible Handlungsempfehlung vorliegt,
+•	und im Nachgang eine verständliche Aufarbeitung erfolgt.
+________________________________________
+3. Key Stakeholders
+Lena Hoffmann – E-Commerce Lead
+•	wichtigste Business-Stakeholderin
+•	sehr aufmerksam bei Conversion-Risiken
+•	eskaliert schnell, wenn Kampagnen betroffen sind
+•	erwartet klare Zeitangaben und Ownership
+Tim Becker – Shop Manager
+•	operativer Ansprechpartner für Shop und Checkout
+•	meldet Konfigurations- und Plugin-Themen
+•	stark an praktikablen Empfehlungen interessiert
+Nina Roth – CRM / Marketing
+•	interessiert an Mobile Conversion, Kampagnenwirkung und Wallet-Performance
+•	bringt Business-Druck in Incidents ein
+Paul Jensen – Tech Lead
+•	Ansprechpartner für technische Ursachenanalyse
+•	bewertet Updates, Konfiguration und Release-Risiken
+•	erwartet strukturierte technische Einordnung
+________________________________________
+4. Business Snapshot
+Commercial Overview
+Nordlicht Outdoor GmbH wächst dynamisch und ist in verkaufsstarken Monaten stark kampagnengetrieben. Durch den hohen Mobile-Anteil ist der Checkout geschäftskritisch. Wallet-Verfügbarkeit und Checkout-Geschwindigkeit wirken sich direkt auf Umsatz und Conversion aus.
+Core Business Metrics
+Annual TPV (last 12 months): EUR 18.4 million
+Average monthly TPV: EUR 1.53 million
+Peak month TPV: EUR 2.60 million
+Average order value: EUR 86
+Average monthly transaction count: approx. 17,800
+Peak month transaction count: approx. 29,400
+Refund rate: 3.1 %
+Chargeback rate: 0.24 %
+Channel and Payment Mix
+Share of mobile transactions: 64 %
+Share of desktop transactions: 36 %
+Payment Method Mix
+•	Cards: 51 %
+•	Wallets: 22 %
+•	Invoice: 27 %
+Wallet Split
+•	Google Pay: 13 %
+•	Apple Pay: 9 %
+Conversion and Checkout KPIs
+Average checkout completion rate: 71.2 %
+Mobile checkout completion rate: 68.4 %
+Desktop checkout completion rate: 75.9 %
+Authorization success rate: 93.8 %
+Observed uplift after wallet optimization:
++6.4 % improvement in mobile checkout completion over baseline period
+Growth Metrics
+Year-over-year TPV growth: +28 %
+Projected TPV next 12 months: EUR 22–24 million
+Estimated upside from additional payment expansion: EUR 2.5–3.2 million annual TPV
+________________________________________
+5. Incident Impact Summary
+Incident 1: Google Pay not visible in checkout
+Incident Date: 2025-01-12
+Affected Area: Mobile checkout / wallet visibility
+Severity: High
+Estimated duration: 5.5 hours
+Estimated affected mobile sessions: approx. 4,200
+Estimated conversion drop: -4.7 percentage points
+Estimated revenue at risk: EUR 48,000
+Assessment:
+Dieser Vorfall wurde vom Kunden als besonders kritisch wahrgenommen, weil er in eine Phase mit hohem Mobile-Traffic fiel. Die Erwartung des Kunden war nicht nur eine technische Behebung, sondern eine eng getaktete, proaktive Kommunikation mit klarer ETA und anschließender Ursachenanalyse.
+Incident 2: Checkout instability after plugin update
+Incident Date: 2025-02-10 to 2025-02-12
+Affected Area: Checkout completion
+Severity: Critical
+Estimated duration until stabilization: approx. 1.5 days
+Estimated failed checkout attempts: approx. 320
+Estimated revenue impact: EUR 27,500
+Assessment:
+Der Kunde war insbesondere deshalb unzufrieden, weil die Auswirkungen aus Business-Sicht sichtbar waren, die technische Reproduzierbarkeit aber zunächst unklar blieb. Im Nachgang wurde mehr Struktur für Release-Governance gefordert.
+Key Learnings
+•	Frühwarnung vor Risiken ist für diesen Kunden sehr wichtig
+•	Status-Updates sollten Business-Auswirkungen adressieren
+•	Nach kritischen Incidents wird Root Cause Analysis erwartet
+•	Release-Risiken müssen in klar verständliche Sprache übersetzt werden
+________________________________________
+6. Commercial and Growth View
+Current Commercial Position
+Current blended fee rate: 1.84 %
+Commercial status: stable
+Pricing pressure: moderate
+Negotiation trigger: higher annual volume and payment expansion
+Growth Potential
+Nordlicht Outdoor GmbH hat attraktives Wachstumspotenzial in folgenden Bereichen:
+•	weitere Zahlarten
+•	Mobile Checkout Optimierung
+•	KPI-basierte Reviews
+•	gezielter Ausbau in angrenzende Märkte
+Estimated annual TPV upside through payment expansion: EUR 2.5–3.2 million
+Strategic Opportunities
+1. Payment expansion
+Der Kunde ist offen für zusätzliche Zahlarten, wenn diese mit Conversion- und Wachstumsvorteilen begründet werden.
+2. Structured QBR model
+Ein regelmäßiges KPI- und Business-Review würde die Beziehung stabilisieren und von reaktiver Kommunikation zu strategischer Zusammenarbeit verschieben.
+3. Mobile optimization partnership
+Hoher Fit, da der Kunde Wallets und Mobile Checkout bereits eng beobachtet.
+________________________________________
+7. Handover Briefing
+Current State
+Die Beziehung ist derzeit stabilisiert, aber weiterhin sensibel bei technischen Themen. Frühere Incidents sind nicht vergessen, wirken aber inzwischen eher als gemeinsame Lernerfahrung als als akuter Konfliktherd.
+What a new Account Manager must know
+•	Wallets sind bei diesem Kunden geschäftskritisch
+•	Mobile Conversion ist ein zentrales Steuerungsthema
+•	Bei Incidents erwartet der Kunde ein enges Update-Intervall
+•	Der Kunde reagiert gut auf Struktur, Klarheit und konkrete Empfehlungen
+•	Preisgespräche sollten immer im Kontext von Service und Stabilität geführt werden
+Current Risks
+•	erneute Wallet- oder Checkout-Ausfälle
+•	unklare Kommunikation bei technischen Änderungen
+•	verspätete Zwischenupdates bei offenen Tickets
+Current Opportunities
+•	Ausbau weiterer Zahlarten
+•	regelmäßige Performance-Reviews
+•	stärkere strategische Partnerschaft statt rein operativer Betreuung
+________________________________________
+8. Open Issues Summary
+1.	Definition eines dauerhaft belastbaren Release-Prozesses 
+2.	Ausbau proaktiver Incident-Kommunikation 
+3.	Roadmap für zusätzliche Zahlarten 
+4.	Regelmäßiger KPI-Review-Rhythmus 
+5.	Saubere Trennung zwischen Support- und AM-Kommunikation
+________________________________________
+9. Communication History – Detailed Extract
+Hinweis: Die folgende Kommunikationshistorie ist als realistische, längere, Word-taugliche Chronik aufgebaut. Sie ist absichtlich textreicher formuliert, damit sie in Word und in einem Agent-Kontext natürlicher wirkt.
+________________________________________
+1. 2024-09-02 – Email – Kick-off und nächste Schritte für Onboarding
+Sentiment: Neutral
+Topic: Onboarding
+Hallo zusammen,
+vielen Dank noch einmal für das gute Vorgespräch. Wir freuen uns auf die Zusammenarbeit und würden gern möglichst zeitnah die nächsten Schritte für das Onboarding, die technische Einbindung und den groben Projektzeitplan abstimmen.
+Für uns wäre es ideal, wenn wir den Go-Live noch vor dem Herbstgeschäft realisieren könnten, damit wir ausreichend Zeit haben, das Setup vor den umsatzstärkeren Wintermonaten zu stabilisieren. Wenn ihr uns eine Übersicht der notwendigen Schritte und Unterlagen senden könnt, würden wir die internen Ansprechpartner direkt darauf ausrichten.
+Viele Grüße
+Lena Hoffmann
+________________________________________
+2. 2024-09-03 – Email – Übersicht angefragter Unterlagen
+Sentiment: Neutral
+Topic: Onboarding Documents
+Hallo,
+wir haben intern begonnen, die erforderlichen Unterlagen zusammenzustellen. Da uns aktuell Rückfragen aus mehreren Richtungen erreichen, wäre es sehr hilfreich, wenn ihr uns eine gebündelte Übersicht schicken könntet, welche Dokumente und Informationen final benötigt werden.
+So können wir die Abstimmung intern besser koordinieren und vermeiden, dass Informationen doppelt oder unvollständig geschickt werden. Uns ist wichtig, im Zeitplan zu bleiben und möglichst wenig Reibung im Onboarding zu erzeugen.
+Beste Grüße
+Tim Becker
+________________________________________
+3. 2024-09-05 – Call Note – Onboarding Kick-off Call
+Sentiment: Positive
+Topic: Project Setup
+Kick-off verlief sehr konstruktiv. Kunde wirkte gut vorbereitet und hat früh signalisiert, dass sowohl Business als auch Technik intern abgestimmt sind. Besonders wichtig waren dem Kunden:
+•	klarer Projektfahrplan
+•	definierte Ansprechpartner
+•	realistische Aussagen zu Test- und Freischaltungsphasen
+Lena Hoffmann betonte, dass Payment für sie nicht nur ein operativer Baustein ist, sondern direkt in Conversion- und Umsatzdiskussionen hineinwirkt.
+________________________________________
+4. 2024-09-09 – Email – Frage zu Testumgebung und Sandbox
+Sentiment: Neutral
+Topic: Technical Setup
+Hallo zusammen,
+wir würden im nächsten Schritt gern besser verstehen, wie umfangreich die Wallet- und Checkout-Flows in der Testumgebung abgebildet werden können. Uns ist wichtig, dass wir nicht nur Standardfälle testen, sondern auch die Darstellung und Nutzerführung insbesondere auf Mobile sauber durchgehen können.
+Falls es Unterschiede zwischen Sandbox und Live-Verhalten gibt, wäre eine kurze Einordnung hilfreich. Unser Ziel ist, mögliche Überraschungen zum Go-Live so weit wie möglich zu minimieren.
+Viele Grüße
+Paul Jensen
+________________________________________
+5. 2024-09-20 – Meeting Note – Onboarding Status Review
+Sentiment: Positive
+Topic: Project Governance
+Das Meeting diente der Priorisierung noch offener Punkte im Onboarding. Kunde begrüßte ausdrücklich, dass die offenen Themen strukturiert gebündelt wurden, da in den ersten Tagen mehrere Einzelrückfragen als etwas unübersichtlich wahrgenommen wurden.
+Vereinbart wurde ein wöchentlicher Statusrhythmus bis zum Go-Live. Das wurde auf Kundenseite sehr positiv aufgenommen, weil dadurch die interne Kommunikation einfacher wird.
+________________________________________
+6. 2024-10-21 – Email – Go-Live erfolgreich erfolgt
+Sentiment: Positive
+Topic: Go-Live
+Hallo zusammen,
+kurzes Update von unserer Seite: Der Go-Live ist heute planmäßig erfolgt und die ersten Transaktionen laufen sauber durch. Vielen Dank an alle Beteiligten für die enge Begleitung in den letzten Wochen.
+Uns hat besonders geholfen, dass die letzten offenen Punkte vorab strukturiert geklärt wurden. Wir würden in den ersten Tagen gern noch etwas enger auf Monitoring und mögliche Auffälligkeiten schauen, aber der erste Eindruck ist positiv.
+Viele Grüße
+Lena Hoffmann
+________________________________________
+7. 2024-10-28 – Email – Bitte um Best Practices für Mobile Conversion
+Sentiment: Positive
+Topic: Optimization
+Hallo Team,
+da wir nun die ersten Live-Tage hinter uns haben, würden wir uns gern schon früh anschauen, welche Möglichkeiten es aus eurer Sicht gibt, die Mobile Conversion im Checkout weiter zu optimieren. Für uns ist das ein besonders relevantes Thema, da ein großer Teil unseres Traffics über Mobile kommt und Wallets dabei eine wichtige Rolle spielen.
+Falls ihr Empfehlungen habt, sei es zur Darstellung der Zahlarten, zur Reihenfolge im Checkout oder zu typischen Hebeln bei vergleichbaren Setups, würden wir uns über einen Austausch freuen.
+Beste Grüße
+Nina Roth
+________________________________________
+8. 2024-11-18 – Email – Marketing-Kampagne Ende November – Monitoring-Wunsch
+Sentiment: Neutral
+Topic: Peak Preparation
+Hallo zusammen,
+wir haben Ende des Monats eine größere Kampagne geplant und erwarten in dem Zeitraum einen deutlich erhöhten Mobile-Anteil. Aus diesem Grund wäre es uns wichtig, dass wir rund um das Kampagnenwochenende ein etwas genaueres Auge auf Checkout-Stabilität und die Verfügbarkeit der wichtigsten Zahlarten haben.
+Insbesondere Wallets sind für uns in diesem Kontext relevant. Es wäre hilfreich, wenn ihr uns kurz bestätigen könntet, wie wir im Fall einer Auffälligkeit am schnellsten eskalieren und welche Ansprechpartner dann erreichbar sind.
+Viele Grüße
+Lena Hoffmann
+________________________________________
+9. 2024-11-29 – Email – Google Pay im Checkout heute Morgen nicht sichtbar
+Sentiment: Negative
+Topic: Wallet Outage
+Hallo Support-Team,
+uns ist heute Morgen aufgefallen, dass Google Pay im Checkout nicht mehr angezeigt wird. Nach erster interner Prüfung haben wir auf unserer Seite keine bewusste Änderung vorgenommen. Da wir aktuell Kampagnen-Traffic auf dem Shop haben und Mobile für uns sehr wichtig ist, stufen wir das Thema als kritisch ein.
+Bitte prüft kurzfristig, ob euch auf System- oder Konfigurationsseite etwas auffällt. Wir würden zeitnah ein erstes Update benötigen, auch wenn die Ursachenanalyse noch nicht abgeschlossen ist.
+Viele Grüße
+Lena Hoffmann
+________________________________________
+10. 2024-11-29 – Call Note – Eskalation wegen Wallet-Sichtbarkeit
+Sentiment: Escalated
+Topic: Incident Management
+Kunde deutlich angespannt. Hintergrund ist das laufende Kampagnenwochenende. Lena Hoffmann schilderte, dass das Marketing-Team bereits Rückfragen stellt und intern sehr genau auf Mobile KPIs geschaut wird.
+Erwartung des Kunden:
+•	sofortige Priorisierung
+•	proaktive Statusupdates
+•	klare Aussage, ob Problem eher technisch, konfigurationsbezogen oder systemseitig ist
+________________________________________
+11. 2024-11-30 – Email – Wallet wieder sichtbar – bitte Ursachenanalyse
+Sentiment: Neutral
+Topic: RCA Request
+Hallo zusammen,
+danke für die kurzfristige Unterstützung gestern. Nach unserer heutigen Prüfung ist Google Pay wieder sichtbar und der Checkout wirkt zunächst wieder stabil. Damit ist das unmittelbare Risiko für uns zwar erst einmal reduziert, aber wir würden das Thema gern sauber nachhalten.
+Bitte sendet uns, sobald möglich, eine kurze verständliche Ursachenanalyse inklusive der Frage, ob wir auf unserer Seite etwas präventiv beachten sollten. Für unsere interne Nachbereitung wäre das wichtig.
+Viele Grüße
+Lena Hoffmann
+________________________________________
+12. 2024-12-02 – Email – Bisher keine RCA erhalten
+Sentiment: Negative
+Topic: Service Quality
+Hallo,
+kurzer Follow-up von unserer Seite: Wir haben bislang noch keine Nachbereitung zum Wallet-Thema erhalten. Uns ist bewusst, dass die akute Störung behoben ist, trotzdem brauchen wir die Einordnung intern, weil das Thema im Management bereits angesprochen wurde.
+Es wäre hilfreich, wenn wir zumindest eine vorläufige Zusammenfassung erhalten könnten. Für uns geht es dabei weniger um technische Tiefe als um die Frage, wie wahrscheinlich eine Wiederholung ist und ob wir etwas im Auge behalten sollten.
+Viele Grüße
+Lena Hoffmann
+________________________________________
+13. 2024-12-16 – Email – Geplantes Plugin-Update vor Weihnachten?
+Sentiment: Concerned
+Topic: Release Management
+Hallo Team,
+unser Tech-Bereich prüft aktuell ein mögliches Plugin-Update noch vor Weihnachten. Nach den Erfahrungen der letzten Wochen sind wir allerdings unsicher, ob das zeitlich sinnvoll ist. Da wir in den kommenden Tagen weiterhin mit relevantem Traffic rechnen, möchten wir kein unnötiges Risiko im Checkout erzeugen.
+Könnt ihr uns eine Einschätzung geben, ob ihr aus eurer Sicht eher zu einer Verschiebung ratet oder ob das Update in einem kontrollierten Rahmen unkritisch wäre? Uns ist bewusst, dass ihr die finale Entscheidung nicht für uns trefft, aber eine Empfehlung würde uns sehr helfen.
+Beste Grüße
+Paul Jensen
+________________________________________
+14. 2025-01-12 – Email – Google Pay wird seit heute im Checkout nicht mehr angezeigt
+Sentiment: Negative
+Topic: Payment Method Outage
+Hallo Support-Team,
+uns ist heute Morgen erneut aufgefallen, dass Google Pay im Checkout nicht mehr angezeigt wird. Nach unserem ersten internen Check haben wir keine bewusste Änderung im Shop vorgenommen, die das erklären würde. Da aktuell ein Kampagnenwochenende läuft und Mobile Traffic für uns einen hohen Anteil hat, gehen wir von einem direkten Einfluss auf die Conversion aus.
+Bitte priorisiert das Thema kurzfristig und gebt uns so früh wie möglich ein erstes Statusupdate. Auch wenn die Ursache noch nicht abschließend klar ist, brauchen wir intern eine belastbare Einordnung, ob eher ein kurzfristiges oder längeres Problem zu erwarten ist.
+Viele Grüße
+Lena Hoffmann
+________________________________________
+15. 2025-01-12 – Call Note – Statusgespräch zum Wallet-Ausfall
+Sentiment: Escalated
+Topic: Incident Management
+Kunde sehr angespannt. Das Thema trifft ein umsatzrelevantes Wochenende. Besonders kritisch ist aus Kundensicht, dass Mobile KPIs sehr eng beobachtet werden und Wallet-Nutzung intern als Conversion-Hebel gilt.
+Vereinbart:
+•	technisches Review mit höchster Priorität
+•	eng getaktete Updates
+•	erste schriftliche Zusammenfassung noch am selben Tag
+________________________________________
+16. 2025-01-13 – Email – Follow-up zum Wallet-Thema und Bitte um ETA
+Sentiment: Negative
+Topic: Incident Follow-up
+Guten Morgen,
+danke für das gestrige Zwischenupdate. Wir brauchen heute bitte eine möglichst belastbare Einschätzung, wann wir mit vollständiger Stabilisierung rechnen können. Das Thema sorgt intern bereits für Druck, weil wir in den Mobile-Zahlen deutliche Auffälligkeiten sehen und Rückfragen aus Marketing und Management bekommen.
+Uns ist klar, dass nicht jede technische Analyse sofort abgeschlossen ist. Für uns ist im Moment aber entscheidend, ob wir intern von einer kurzfristigen Abweichung oder einem strukturelleren Problem sprechen müssen.
+Danke und viele Grüße
+Lena Hoffmann
+________________________________________
+17. 2025-02-02 – Email – Rückfrage zu Plugin-Update und möglichem Risiko
+Sentiment: Neutral
+Topic: Plugin Update
+Hallo zusammen,
+unser Tech-Team plant für nächste Woche ein Plugin-Update. Nach den Vorfällen der vergangenen Wochen möchten wir diesmal vorab besser verstehen, welche Risiken für Checkout, Wallet-Sichtbarkeit und allgemeine Stabilität realistisch sind.
+Uns wäre hilfreich, wenn ihr uns eine kurze Empfehlung geben könntet, welche Prüfungen ihr vor und nach dem Update für sinnvoll haltet. Besonders wichtig wären aus unserer Sicht Testfälle für Mobile und Wallet-Darstellung sowie eine Einschätzung, ab wann ein Rollback sinnvoll wäre.
+Viele Grüße
+Tim Becker
+________________________________________
+18. 2025-02-10 – Call Note – Checkout-Probleme nach Update
+Sentiment: Negative
+Topic: Checkout Issue
+Kunde berichtet nach technischem Update von sporadischen Fehlern im Checkout. Die Störung ist nicht konsistent reproduzierbar, aber aus Kundensicht häufen sich Kaufabbrüche und Support-Hinweise.
+Kunde erwartet:
+•	schnelle technische Hypothesen
+•	Einschätzung zum Business-Impact
+•	Empfehlung, ob Rollback sinnvoll sein könnte
+________________________________________
+19. 2025-02-11 – Email – Seit Update häufen sich Abbrüche im letzten Schritt
+Sentiment: Negative
+Topic: Checkout Failure
+Hallo Team,
+seit dem Update gestern Abend sehen wir in unseren Zahlen auffällige Abbrüche im letzten Schritt des Checkout-Prozesses. Wir können aktuell noch nicht sauber trennen, wie viel davon technisch bedingt ist und wie viel auf normales Verhalten zurückzuführen ist, aber die Entwicklung ist für uns klar auffällig.
+Zusätzlich haben wir einzelne Hinweise aus dem Kundenservice, dass Käufer den Kauf nicht sauber abschließen konnten. Wir brauchen deshalb heute bitte eine Einschätzung, ob ihr im Payment-Flow etwas sehen könnt und wie ihr die Lage aktuell bewertet.
+Viele Grüße
+Lena Hoffmann
+________________________________________
+20. 2025-02-12 – Email – Bitte um Empfehlung: Rollback ja oder nein
+Sentiment: High Concern
+Topic: Incident Decision
+Hallo zusammen,
+wir stehen intern gerade vor der Entscheidung, ob wir das Update zurückrollen sollen. Dafür brauchen wir von euch bitte keine rein technische Statusmeldung, sondern eine klare Empfehlung aus Risiko- und Wirkungssicht.
+Wenn ihr aus eurer Erfahrung sagen würdet, dass ein Rollback aktuell die sinnvollste Maßnahme ist, dann würden wir das intern sofort priorisieren. Wenn ihr meint, dass das Problem mit vertretbarem Risiko auch ohne Rollback kurzfristig stabilisiert werden kann, brauchen wir diese Aussage genauso klar.
+Viele Grüße
+Tim Becker
+________________________________________
+21. 2025-02-18 – Meeting Note – Lessons Learned nach Update-Vorfall
+Sentiment: Constructive
+Topic: Incident Review
+Gemeinsame Nachbereitung des Vorfalls. Kunde wirkte deutlich ruhiger als in der akuten Phase, machte aber klar, dass zukünftige technische Änderungen nur mit besserem Risikobild und klarerer Kommunikation begleitet werden sollen.
+Wichtige Punkte:
+•	Testtiefe vor Releases erhöhen
+•	Monitoring direkt nach Changes intensivieren
+•	Rollback-Kriterien im Vorfeld definieren
+•	Incident-Kommunikation stärker auf Business-Auswirkung beziehen
+________________________________________
+22. 2025-03-10 – Meeting Note – QBR und Abstimmung zu weiterem Payment-Ausbau
+Sentiment: Positive
+Topic: Growth
+Trotz der Vorfälle der letzten Monate war der Termin insgesamt positiv. Kunde sieht weiterhin Potenzial in der Zusammenarbeit und möchte auf Basis der zuletzt stabileren Lage nun wieder stärker auf Optimierung und Wachstum schauen.
+Diskutiert wurden:
+•	Mobile Performance
+•	weitere Zahlarten
+•	mögliche KPI-Regeltermine
+•	Ausbau in angrenzende Märkte
+________________________________________
+23. 2025-03-14 – Email – Interesse an gemeinsamer Conversion-Optimierung
+Sentiment: Positive
+Topic: Joint Growth
+Hallo zusammen,
+nachdem sich die operative Lage zuletzt stabilisiert hat, würden wir gern wieder stärker in Richtung Optimierung schauen. Für uns wäre ein gemeinsamer Workshop interessant, in dem wir uns speziell Mobile Checkout, Wallet-Nutzung und mögliche Conversion-Hebel ansehen.
+Wenn ihr dafür ein sinnvolles Format oder eine Agenda vorschlagen könnt, würden wir das gern für die nächsten Wochen einplanen. Aus unserer Sicht wäre das ein guter nächster Schritt, um die Zusammenarbeit wieder stärker auf Wachstum auszurichten.
+Beste Grüße
+Nina Roth
+________________________________________
+24. 2025-03-25 – Email – Können wir über Konditionen bei weiterem Wachstum sprechen?
+Sentiment: Neutral
+Topic: Commercial Negotiation
+Hallo,
+da wir aktuell von weiter wachsendem Volumen ausgehen und parallel über zusätzlichen Ausbau nachdenken, würden wir gern verstehen, ob und ab welchen Größenordnungen eine Überprüfung der Konditionen sinnvoll wäre.
+Uns geht es dabei nicht um eine kurzfristige Preisdebatte, sondern eher um einen strukturierten Blick auf die Perspektive der Zusammenarbeit. Wenn das Thema für euch sinnvoll ist, können wir es gern mit dem geplanten Wachstums-Review kombinieren.
+Viele Grüße
+Lena Hoffmann
+________________________________________
+25. 2025-05-30 – Email – Danke für die Entwicklung der letzten Monate
+Sentiment: Positive
+Topic: Relationship Summary
+Hallo zusammen,
+zum Monatsende wollten wir euch ein kurzes Feedback geben. Die letzten Monate waren aus unserer Sicht nicht ganz einfach, insbesondere rund um die technischen Vorfälle und die Frage, wie schnell und klar wir in kritischen Situationen gemeinsam handlungsfähig sind.
+Gleichzeitig sehen wir aber auch deutlich, dass sich die Zusammenarbeit in den letzten Wochen verbessert hat. Themen werden strukturierter nachgehalten, Abstimmungen wirken klarer, und wir haben wieder mehr Vertrauen, auch über Wachstum und Optimierung zu sprechen. Vielen Dank dafür.
+Viele Grüße
+Lena Hoffmann
+________________________________________
+10. Relationship Assessment
+Strengths
+•	hoher Business-Fit
+•	offener Kunde für Optimierung und Wachstum
+•	gute Wirkung von strukturierter Kommunikation
+•	klares Potenzial für strategische Weiterentwicklung
+Weaknesses
+•	hohe Eskalationsneigung bei Umsatzrisiken
+•	sehr geringe Toleranz für unklare Statusmeldungen
+•	technische Änderungen sind besonders sensibel
+Churn Risk
+Medium
+Growth Potential
+High
+Recommended Handling Style
+•	proaktiv
+•	strukturiert
+•	business-orientiert
+•	mit klaren Verantwortlichkeiten
+•	mit sichtbarem Follow-up
+________________________________________
+11. Recommended Next Actions
+1.	monatlichen KPI- und Performance-Review etablieren 
+2.	Roadmap für zusätzliche Zahlarten vorbereiten 
+3.	Release-Governance mit klaren Tests und Rollback-Kriterien dokumentieren 
+4.	Incident-Kommunikationsstandard für kritische Fälle definieren 
+5.	Preisgespräche mit Service- und Stabilitätsmodell verknüpfen
+

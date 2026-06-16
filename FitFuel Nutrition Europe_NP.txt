@@ -1,0 +1,458 @@
+FITFUEL NUTRITION EUROPE – COMPLETE CUSTOMER PACK
+Customer Name: FitFuel Nutrition Europe
+Customer ID: CUST-003
+Industry: B2C Nutrition
+Region: EU
+Segment: Growth Merchant
+Business Model: Business-to-Consumer Subscription and One-Time Purchase E-Commerce
+Primary Sales Channel: Own Online Shop
+Integration Type: Shopify
+Payment Setup: Cards, Wallets, Subscription-related Payments
+Relationship Health: Positive
+Primary Risk: Revenue Risk
+Growth Potential: High
+FitFuel Nutrition Europe
+Customer ID: CUST-003
+Legal Name: FitFuel Nutrition Europe GmbH
+Display Name: FitFuel Nutrition Europe
+Industry: B2C Nutrition
+Business Model: Subscription and One-Time Purchase E-Commerce
+Region: EU
+Country of Incorporation: Germany
+Company Size: Growth Merchant
+Merchant Status: Live
+Relationship Health: Positive
+Primary Risk Flag: Revenue Risk
+Growth Potential: High
+Integration Type: Shopify
+Primary Payment Setup: Cards, Wallets, Subscription-related Payments
+BNPL Relevant: Yes
+Contract Status: Active
+Service Tier: Growth
+Go-Live Date: 2024-10-22
+Preferred Communication Language: English / German mixed
+Preferred Contact Channel: Fast email, ad hoc calls for KPI topics 
+Registered Address:
+FitFuel Nutrition Europe GmbH
+Landsberger Straße 112
+80339 München
+Germany
+Billing Address:
+FitFuel Nutrition Europe GmbH
+Finance Operations
+Landsberger Straße 112
+80339 München
+Germany
+VAT ID: DE309887654
+Commercial Register: HRB 245991 München
+Tax Number: 143/765/99881 
+Fake Bank Details:
+Bank Name: AlpenCommerce Bank
+IBAN: DE21500105170648291377
+BIC: ALCBDEMMXXX 
+Annual TPV: EUR 14.7 million
+Average Monthly TPV: EUR 1.23 million
+Peak Monthly TPV: EUR 1.95 million
+Average Order Value: EUR 62
+Monthly Transactions: approx. 19,800
+Mobile Share: 72 %
+Wallet Share: 29 %
+YoY Growth: +41 % 
+General / Main Contact:
+Sarah Klein — Head of E-Commerce — sarah.klein@fitfuel-demo.com
+Billing Contact:
+Olivia Stern — Operations Manager — olivia.stern@fitfuel-demo.com
+Invoice Recipient / Rechnungsempfänger:
+Finance Operations — finance@fitfuel-demo.com
+Technical / Live Mail Contact:
+Deniz Acar — Shopify Developer — deniz.acar@fitfuel-demo.com
+Insights User:
+Marc Weber — Growth Lead — marc.weber@fitfuel-demo.com
+Managing Director / Geschäftsführer:
+Daniel Kraus — Managing Director — daniel.kraus@fitfuel-demo.com
+Beneficial Owner / Wirtschaftlich Berechtigter:
+Daniel Kraus — Managing Director — daniel.kraus@fitfuel-demo.com
+BNPL Dunning Contact:
+Olivia Stern — Operations Manager — olivia.stern@fitfuel-demo.com
+BNPL Merchant Support Contact:
+Sarah Klein — Head of E-Commerce — sarah.klein@fitfuel-demo.com
+BNPL Merchant Portal User UPL:
+Marc Weber — Growth Lead — marc.weber@fitfuel-demo.com
+
+________________________________________
+1. Executive Summary
+FitFuel Nutrition Europe ist ein schnell wachsender B2C-Händler mit starkem Fokus auf Performance Marketing, Checkout-KPIs und Conversion-Optimierung. Der Kunde denkt sehr zahlengetrieben und bewertet Payment vor allem nach dem Beitrag zu Conversion, Stabilität und Umsatz.
+Im Vergleich zu Bella Casa Living AG ist die Kommunikation deutlich direkter, schneller und KPI-näher. Der Kunde reagiert positiv auf sichtbare Ergebnisse und schnelle Unterstützung, kann aber bei abrupten KPI-Verschlechterungen oder technischen Problemen sehr kurzfristig Druck aufbauen.
+Wichtige Themen in der Beziehung sind:
+•	Checkout-Performance
+•	Wallet-Uplift
+•	Theme- und App-Änderungen mit Seiteneffekten
+•	Subscription Payments und Retry-Logiken
+•	schnelle Einordnung von KPI-Veränderungen
+•	Growth-orientierte Zusammenarbeit
+FitFuel ist ein attraktiver Wachstums-Case mit hoher Bereitschaft für gemeinsame Optimierung. Gleichzeitig ist die Erwartungshaltung an Reaktionsgeschwindigkeit und Business-Orientierung hoch.
+________________________________________
+2. Account Overview
+FitFuel Nutrition Europe ist stark performance-getrieben und misst viele Veränderungen im Shop sehr eng. Payment ist aus Kundensicht kein Backend-Thema, sondern ein aktiver Hebel für Checkout-Completion, Mobile Conversion und Subscription-Stabilität.
+Der Kunde kommuniziert oft in kurzen Zyklen und stellt Fragen nicht abstrakt, sondern direkt im Zusammenhang mit KPIs, Conversion oder Kampagnenwirkung. Der Umgang ist meist pragmatisch, aber wenig tolerant gegenüber langsamen oder allgemeinen Antworten.
+Wichtige Erfolgsfaktoren in der Betreuung:
+1.	schnelle Reaktionszeit
+2.	Übersetzung technischer Themen in Business-Sprache
+3.	Hypothesen zu KPI-Schwankungen statt nur Statusmeldungen
+4.	proaktive Begleitung bei Shop-Änderungen
+5.	gemeinsamer Optimierungsblick statt rein operativer Support
+________________________________________
+3. Key Stakeholders
+Marc Weber – Growth Lead
+•	sehr KPI-getrieben
+•	direkt in Ton und Erwartung
+•	reagiert positiv auf sichtbaren Uplift
+•	fordert schnelle Einordnung bei Performance-Fragen
+Sarah Klein – Head of E-Commerce
+•	verbindet Business Impact mit operativer Priorisierung
+•	wichtig bei Eskalationen und bei strategischen Themen
+•	treibt Wachstumsthemen aktiv
+Deniz Acar – Shopify Developer
+•	technischer Ansprechpartner
+•	relevant bei Theme-, App- und Checkout-Änderungen
+•	hilft bei Reproduzierbarkeit und Ursachenanalyse
+Olivia Stern – Operations Manager
+•	koordiniert Nachverfolgung und operative Umsetzung
+•	häufig erste Ansprechpartnerin bei Rückfragen im Tagesgeschäft
+________________________________________
+4. Business Snapshot
+Commercial Overview
+FitFuel Nutrition Europe ist ein dynamischer Growth-Merchant mit starker Mobile-Nutzung, hoher Kampagnendichte und wiederkehrenden Käufen. Der Kunde kombiniert One-Time-Purchases mit subscription-nahen Journeys und bewertet Payment stark entlang von Completion Rate und Umsatzwirkung.
+Core Business Metrics
+Annual TPV (last 12 months): EUR 14.7 million
+Average monthly TPV: EUR 1.23 million
+Peak month TPV: EUR 1.95 million
+Average order value: EUR 62
+Average monthly transaction count: approx. 19,800
+Peak month transaction count: approx. 31,500
+Refund rate: 2.4 %
+Chargeback rate: 0.31 %
+Channel and Payment Mix
+Share of mobile transactions: 72 %
+Share of desktop transactions: 28 %
+Payment Method Mix
+•	Cards: 58 %
+•	Wallets: 29 %
+•	Other / alternative methods: 13 %
+Wallet Split
+•	Apple Pay: 16 %
+•	Google Pay: 13 %
+Conversion and Subscription KPIs
+Average checkout completion rate: 73.4 %
+Mobile checkout completion rate: 70.8 %
+Desktop checkout completion rate: 79.1 %
+Authorization success rate: 94.1 %
+Subscription retry recovery rate: 18.6 %
+Growth Metrics
+Year-over-year TPV growth: +41 %
+Projected TPV next 12 months: EUR 18–20 million
+Estimated upside from checkout optimization: EUR 1.9–2.8 million annual TPV
+________________________________________
+5. Incident and KPI Impact Summary
+Issue Cluster 1: KPI drops after theme or app changes
+Der Kunde erlebt KPI-Schwankungen häufig direkt nach Änderungen im Shop-Umfeld. Auch wenn die Ursache nicht immer Payment-seitig liegt, erwartet er eine schnelle Einordnung, ob der Payment-Flow betroffen ist oder nicht.
+Issue Cluster 2: Checkout drop-off
+Besonders kritisch sind Veränderungen im letzten Checkout-Schritt. Schon kleine Auffälligkeiten können wegen des hohen Volumens und des starken Mobile-Anteils spürbare Umsatzwirkung haben.
+Issue Cluster 3: Subscription logic and retry strategy
+Der Kunde möchte wiederkehrende Zahlungen aktiver optimieren und interessiert sich für Retry-Strategien, Stabilität und Recovery-Potenziale.
+Illustrative Incident Example
+Theme-related checkout issue, February 2025
+•	affected area: checkout completion
+•	duration until stabilization: approx. 1 day
+•	estimated failed checkout attempts: approx. 280
+•	estimated revenue impact: EUR 18,000–24,000
+•	customer sentiment: negative to highly concerned
+________________________________________
+6. Commercial and Growth View
+Current Commercial Position
+Current blended fee rate: 1.92 %
+Commercial status: stable, growth-oriented
+Pricing pressure: low to medium
+Negotiation style: performance- and upside-driven
+Growth Potential
+FitFuel Nutrition Europe bietet hohes Wachstumspotenzial in:
+•	Checkout-Optimierung
+•	Wallet-Ausbau
+•	Subscription-Optimierung
+•	KPI-basierter gemeinsamer Steuerung
+•	länderübergreifendem Ausbau
+Strategic Opportunities
+1. Checkout optimization partnership
+Sehr hoher Fit, da der Kunde messbare Uplifts sucht.
+2. Subscription payment optimization
+Retry-Logiken, Recovery-Raten und Friction-Reduktion sind relevante Hebel.
+3. Growth review cadence
+Regelmäßige KPI-Reviews könnten die Beziehung von operativ zu strategisch weiterentwickeln.
+________________________________________
+7. Handover Briefing
+Current State
+Die Beziehung ist positiv und dynamisch, aber performance-sensibel. Solange Ergebnisse sichtbar sind und Antworten schnell kommen, ist der Kunde sehr kooperativ. Bei KPI-Dellen oder unklaren Checkout-Problemen entsteht schnell Druck.
+What a new Account Manager must know
+•	jede KPI-Frage ist aus Kundensicht business-kritisch
+•	lange technische Antworten ohne Einordnung helfen wenig
+•	der Kunde mag Tempo und konkrete Hypothesen
+•	Wallets und Mobile Performance sind zentrale Themen
+•	Subscription-Flows sind ein strategisches Ausbaugebiet
+Current Risks
+•	Conversion-Einbruch nach Shop-Änderungen
+•	unzureichende Einordnung bei KPI-Schwankungen
+•	Support-Antworten, die zu generisch bleiben
+Current Opportunities
+•	starke Growth-Partnerschaft
+•	Checkout- und Wallet-Optimierung
+•	Subscription-Retry-Verbesserung
+•	KPI-basierte Review-Struktur
+________________________________________
+8. Open Issues Summary
+1.	klarere Bewertung von KPI-Schwankungen nach Shop-Änderungen 
+2.	Ausbau eines strukturierten Checkout-Optimierungsansatzes 
+3.	Review von Subscription Retry-Strategien 
+4.	regelmäßige KPI-Reviews etablieren 
+5.	technische Changes enger begleiten
+________________________________________
+9. Communication History – Detailed Extract
+________________________________________
+1. 2024-09-10 – Email – Start der Zusammenarbeit und Fokus auf Conversion
+Sentiment: Positive
+Topic: Onboarding / Growth
+Hi zusammen,
+wir freuen uns auf die Zusammenarbeit und würden gern von Anfang an sicherstellen, dass wir nicht nur das technische Setup sauber aufsetzen, sondern auch die für uns wichtigsten KPIs im Blick haben. Für uns ist entscheidend, dass Checkout und Payment nicht isoliert betrachtet werden, sondern als Teil der gesamten Conversion Journey.
+Wenn wir im Onboarding schon früh die wichtigsten Hebel für Mobile und Wallet-Nutzung mitdenken können, wäre das ideal.
+Beste Grüße
+Marc Weber
+________________________________________
+2. 2024-09-13 – Email – Fragen zum Shopify-Setup
+Sentiment: Neutral
+Topic: Technical Setup
+Hallo,
+unser Team ist gerade im Shopify-Setup und würde gern besser verstehen, wie sich die Integration in Kombination mit unseren bestehenden Apps und Theme-Anpassungen verhält. Wir haben in der Vergangenheit erlebt, dass kleinere Frontend-Änderungen unerwartete Seiteneffekte im Checkout auslösen können.
+Deshalb wäre uns wichtig, möglichst früh ein Gefühl dafür zu bekommen, welche Bereiche besonders sensibel sind und worauf wir beim Testing achten sollten.
+Danke
+Deniz Acar
+________________________________________
+3. 2024-09-18 – Call Note – Kick-off zu KPIs und technischer Einbindung
+Sentiment: Positive
+Topic: Project Setup
+Kunde klar growth-orientiert. Marc Weber und Sarah Klein betonen, dass bereits im Onboarding Fragen zu Conversion, Wallet-Verfügbarkeit und Mobile Experience relevant sind. Technisches Setup wird ausdrücklich mit Business-KPIs verknüpft.
+________________________________________
+4. 2024-09-26 – Email – Bitte um frühe Einschätzung zu Wallet-Nutzung
+Sentiment: Positive
+Topic: Wallet Enablement
+Hi Team,
+wir würden gern schon vor dem finalen Go-Live besser verstehen, welchen Einfluss Wallets bei vergleichbaren Setups typischerweise auf Mobile Checkout Completion haben. Uns geht es dabei nicht um eine exakte Prognose, sondern eher um ein Gefühl für das mögliche Potenzial.
+Falls ihr dazu Erfahrungswerte oder Benchmarks habt, wäre das super hilfreich für unsere interne Priorisierung.
+Beste Grüße
+Marc
+________________________________________
+5. 2024-10-07 – Email – Testkäufe laufen, nächste Frage: Subscription-Flows
+Sentiment: Positive
+Topic: Testing / Subscriptions
+Hallo zusammen,
+die bisherigen Testkäufe sehen gut aus. Als Nächstes würden wir gern stärker auf die Frage schauen, wie sich Payment in unseren Subscription-nahen Abläufen verhält. Dabei geht es uns vor allem um Stabilität, mögliche Retry-Optionen und die Frage, wie wir unnötige Friktion minimieren können.
+Wenn ihr dazu Empfehlungen habt, würden wir das gern frühzeitig mit einplanen.
+Viele Grüße
+Olivia Stern
+________________________________________
+6. 2024-10-22 – Email – Go-Live erfolgreich, jetzt Fokus auf Performance
+Sentiment: Positive
+Topic: Go-Live / Optimization
+Hi zusammen,
+der Go-Live ist aus unserer Sicht gut verlaufen und wir sehen bislang keine ungewöhnlichen Auffälligkeiten. Sobald die ersten Tage hinter uns liegen, würden wir gern relativ schnell in einen Modus kommen, in dem wir uns die Performance-Daten anschauen und mögliche Optimierungen priorisieren.
+Für uns wäre es ideal, wenn wir frühzeitig ein gemeinsames Verständnis dafür aufbauen, welche Payment-KPIs wir regelmäßig monitoren sollten.
+Beste Grüße
+Sarah Klein
+________________________________________
+7. 2024-11-04 – Email – Erste positive Tendenz bei Mobile Checkout
+Sentiment: Positive
+Topic: Performance
+Hallo Team,
+nach den ersten Wochen sehen wir bereits eine leicht positive Tendenz im Mobile Checkout, insbesondere bei Nutzern mit Wallet-Affinität. Das ist noch kein endgültiges Fazit, aber die Richtung wirkt aus unserer Sicht vielversprechend.
+Sobald wir belastbarere Daten haben, würden wir diese gern mit euch gemeinsam einordnen.
+VG
+Marc
+________________________________________
+8. 2024-11-19 – Email – Nachfrage zu Retry-Logiken bei wiederkehrenden Zahlungen
+Sentiment: Neutral
+Topic: Subscriptions
+Hi,
+wir möchten das Thema wiederkehrende Zahlungen besser verstehen und würden gern wissen, welche Retry-Logiken ihr grundsätzlich empfehlt bzw. welche Hebel typischerweise einen Unterschied in der Recovery-Rate machen.
+Für uns ist das kein akutes Problem, aber ein Bereich, in dem wir mittelfristig Potenzial sehen.
+Danke
+Olivia
+________________________________________
+9. 2025-01-25 – Email – Positives Update zur Checkout-Performance
+Sentiment: Positive
+Topic: Praise / Conversion Uplift
+Hi Team,
+kurzes positives Update von uns: Seit der Aktivierung der zusätzlichen Wallet-Optionen sehen wir eine spürbar bessere Mobile Conversion. Das entspricht ziemlich genau der Richtung, die wir uns erhofft hatten.
+Danke für die schnelle Begleitung in der Umsetzung. Wenn ihr Ideen habt, wie wir ähnliche Effekte im Subscription-Checkout erreichen könnten, schauen wir uns das gern gemeinsam an.
+Beste Grüße
+Marc
+________________________________________
+10. 2025-02-01 – Email – Frage zu Retry-Logiken bei wiederkehrenden Zahlungen
+Sentiment: Neutral
+Topic: Subscription Optimization
+Hi,
+wir würden gern noch etwas tiefer in das Thema Retry-Logiken bei wiederkehrenden Zahlungen einsteigen. Konkret interessiert uns, welche Strategien aus eurer Sicht sinnvoll sind und wo typischerweise vermeidbare Verluste entstehen.
+Wenn ihr dazu eine strukturierte Einordnung oder Best Practices habt, wäre das für unser Team sehr hilfreich.
+Danke
+Olivia
+________________________________________
+11. 2025-02-18 – Call Note – Checkout-Dropoff nach Theme-Update
+Sentiment: Negative
+Topic: Integration Issue / Theme Update
+Kunde berichtet von deutlichem Drop-off im letzten Schritt des Checkout-Prozesses seit einem Theme-Update am Vorabend. Sarah Klein stuft das Thema unmittelbar als business-kritisch ein, weil die Auswirkungen in den KPIs sichtbar sind und Kampagnen parallel laufen.
+Erwartung des Kunden:
+•	schnelle technische Einordnung
+•	klare Aussage, ob Payment betroffen ist
+•	kurzfristige Empfehlung zu Rollback oder Stabilisierung
+________________________________________
+12. 2025-02-19 – Email – Seit Theme-Änderung auffälliger Rückgang in Completion
+Sentiment: Negative
+Topic: Conversion Issue
+Hallo Team,
+wir sehen seit dem gestrigen Theme-Update einen auffälligen Rückgang in der Checkout-Completion. Aktuell ist noch nicht abschließend klar, ob der Effekt vollständig payment-seitig erklärbar ist, aber die zeitliche Nähe ist offensichtlich genug, dass wir das Thema priorisieren müssen.
+Bitte schaut euch an, ob euch im Flow oder in den Logs etwas auffällt. Wir brauchen heute möglichst eine Einordnung, ob wir von einem technischen Problem, einem Rendering-Thema oder eher einer anderen Ursache ausgehen sollten.
+VG
+Sarah
+________________________________________
+13. 2025-02-20 – Email – Bitte keine generischen Updates, wir brauchen Hypothesen
+Sentiment: Negative
+Topic: Incident Handling
+Hi zusammen,
+nur als kurze Klarstellung: Für uns ist in dieser Phase nicht entscheidend, möglichst viele technische Zwischenschritte zu sehen, sondern schnell zu verstehen, welche realistischen Hypothesen es für den KPI-Effekt gibt und welche Maßnahmen daraus folgen.
+Wenn ihr uns sagen könnt, was aus eurer Sicht die wahrscheinlichsten Ursachen sind und welche nächsten Schritte sich daraus ableiten, hilft uns das deutlich mehr als ein rein technischer Status ohne Einordnung.
+Beste Grüße
+Marc
+________________________________________
+14. 2025-02-21 – Call Note – Kurzfristiger KPI-Review
+Sentiment: Neutral
+Topic: Performance Review
+Kunde möchte datenbasierte Hypothesen. Marc Weber und Sarah Klein erwarten keine hundertprozentige Sicherheit, aber eine priorisierte Einschätzung mit Business-Relevanz. Klassische technische Statussprache wird als zu wenig hilfreich wahrgenommen.
+________________________________________
+15. 2025-03-02 – Email – Auffälliger KPI-Rückgang im Checkout
+Sentiment: Negative
+Topic: Checkout Performance
+Hallo Team,
+wir sehen seit gestern erneut einen auffälligen Rückgang in der Checkout-Completion. Bevor wir intern größere Rückschlüsse ziehen, möchten wir verstehen, ob aus eurer Sicht im Payment-Flow etwas Auffälliges sichtbar ist oder ob ihr eher keine Hinweise auf payment-seitige Ursachen seht.
+Uns geht es vor allem darum, schnell die richtigen Hypothesen zu priorisieren und nicht Zeit in die falsche Richtung zu investieren.
+VG
+Sarah
+________________________________________
+16. 2025-03-03 – Call Note – Datenbasierter Short-Term Review
+Sentiment: Neutral
+Topic: KPI Analysis
+Kunde erwartet kein pauschales “bei uns sieht alles normal aus”, sondern eine Einordnung, welche Dimensionen geprüft wurden und welche Hypothesen aktuell wahrscheinlicher oder unwahrscheinlicher sind.
+________________________________________
+17. 2025-03-10 – Email – Danke für die schnelle Einordnung
+Sentiment: Positive
+Topic: Praise
+Hi Team,
+danke für die schnelle und vor allem gut strukturierte Einordnung zum letzten KPI-Thema. Für uns war besonders hilfreich, dass ihr nicht nur den technischen Status geteilt habt, sondern auch klar benannt habt, welche Ursachen ihr eher ausschließt und welche Richtungen wir intern weiter prüfen sollten.
+Genau so können wir mit solchen Situationen gut arbeiten.
+Beste Grüße
+Marc
+________________________________________
+18. 2025-03-20 – Meeting Note – Wachstumspotenziale im Checkout und Subscription-Bereich
+Sentiment: Positive
+Topic: Growth / Subscription Optimization
+Kunde interessiert sich für weitere Hebel im Checkout, insbesondere für wiederkehrende Zahlungen, Mobile-Optimierung und Reduktion von Friktion im letzten Schritt. Austausch war konstruktiv und zukunftsorientiert.
+Besprochene Themen:
+•	Wallet-Entwicklung
+•	Retry-Strategien
+•	KPI-Set für laufende Reviews
+•	A/B-Test-Ideen
+•	Friction Points im Checkout
+________________________________________
+19. 2025-03-28 – Email – Können wir Mobile und Subscription gemeinsam priorisieren?
+Sentiment: Positive
+Topic: Growth Planning
+Hallo zusammen,
+nach dem letzten Austausch würden wir gern die nächsten Schritte etwas konkreter priorisieren. Aus unserer Sicht wären Mobile Checkout und Subscription Recovery aktuell die zwei wichtigsten Themenfelder, weil wir dort kurzfristig den größten Hebel sehen.
+Wenn ihr dazu einen Vorschlag machen könnt, wie wir die Themen sinnvoll nacheinander oder parallel aufsetzen, würden wir das gern im April starten.
+Beste Grüße
+Sarah
+________________________________________
+20. 2025-04-09 – Email – Interesse an Benchmarking zu Wallet-Nutzung
+Sentiment: Positive
+Topic: Benchmarking
+Hi Team,
+für eine interne Präsentation würden wir gern besser einordnen können, wie sich unser Wallet-Anteil im Vergleich zu ähnlichen Setups entwickelt. Uns geht es nicht darum, eine exakte Marktstudie zu bekommen, sondern um eine belastbare Einordnung, ob wir eher im erwartbaren Bereich liegen oder ob noch Luft nach oben besteht.
+Falls ihr dafür eine pragmatische Sicht oder Erfahrungswerte habt, wäre das sehr hilfreich.
+Beste Grüße
+Marc
+________________________________________
+21. 2025-04-22 – Email – Wunsch nach regelmäßigem KPI-Review
+Sentiment: Positive
+Topic: Governance / Growth
+Hallo zusammen,
+wir würden die Zusammenarbeit gern in einen etwas regelmäßigeren KPI-Review-Modus überführen. Für uns wäre es sinnvoll, in festen Abständen gemeinsam auf Checkout-Completion, Wallet-Anteil, Subscription-Retry-Entwicklung und größere Veränderungen im Shop-Setup zu schauen.
+Das würde uns helfen, operatives Incident-Denken stärker in eine laufende Optimierungslogik zu überführen.
+Viele Grüße
+Sarah
+________________________________________
+22. 2025-05-06 – Email – Positives internes Feedback zum Payment-Setup
+Sentiment: Positive
+Topic: Internal Feedback
+Hi Team,
+nur ein kurzes Feedback von unserer Seite: Intern wird das aktuelle Payment-Setup mittlerweile sehr positiv wahrgenommen, insbesondere weil Wallets stabil laufen und die Einordnung bei KPI-Fragen zuletzt deutlich besser war als noch in früheren Schleifen.
+Das hat für uns echten Wert, weil es die Diskussion intern spürbar beruhigt.
+Beste Grüße
+Marc
+________________________________________
+23. 2025-05-15 – Call Note – Subscription Recovery Review
+Sentiment: Positive
+Topic: Subscription Performance
+Kunde möchte im nächsten Schritt stärker auf Recovery-Logiken bei wiederkehrenden Zahlungen schauen. Thema ist nicht eskaliert, sondern klar wachstumsorientiert. Gute Grundlage für strategische Weiterentwicklung.
+________________________________________
+24. 2025-05-23 – Email – Danke für den pragmatischen Support
+Sentiment: Positive
+Topic: Relationship
+Hallo zusammen,
+wir möchten euch kurz spiegeln, dass wir den Support in den letzten Monaten als sehr pragmatisch und hilfreich wahrgenommen haben. Besonders bei kurzfristigen KPI-Fragen war es für uns wichtig, nicht nur technische Antworten, sondern auch priorisierte Einordnungen zu bekommen.
+Das hat die Zusammenarbeit für uns deutlich verbessert.
+Viele Grüße
+Sarah
+________________________________________
+25. 2025-05-30 – Email – Nächster Schritt: mehr gemeinsame Optimierung
+Sentiment: Positive
+Topic: Growth Outlook
+Hi Team,
+aus unserer Sicht haben wir inzwischen eine gute Basis geschaffen, auf der wir stärker in gemeinsame Optimierung gehen können. Operative Stabilität bleibt wichtig, aber wir würden den Fokus im nächsten Schritt gern stärker auf systematische Conversion-Verbesserung und Subscription-Themen legen.
+Wenn ihr dazu einen Vorschlag für ein sinnvoll priorisiertes Vorgehen habt, schauen wir uns das gern an.
+Beste Grüße
+Marc
+________________________________________
+10. Relationship Assessment
+Strengths
+•	hoher Growth-Fit
+•	schnelle positive Resonanz bei sichtbaren Ergebnissen
+•	offen für gemeinsame Optimierung
+•	starke Relevanz von KPI- und Performance-Themen
+Weaknesses
+•	geringe Geduld bei unklaren KPI-Schwankungen
+•	technische Antworten ohne Business-Bezug werden schlecht aufgenommen
+•	Shop-Änderungen erzeugen regelmäßig Unsicherheit
+Churn Risk
+Low to Medium
+Growth Potential
+High
+Recommended Handling Style
+•	schnell
+•	hypothesenbasiert
+•	KPI-orientiert
+•	pragmatisch
+•	outcome-focused
+________________________________________
+11. Recommended Next Actions
+1.	regelmäßigen KPI-Review-Rhythmus etablieren 
+2.	Subscription Retry-Strategien gemeinsam analysieren 
+3.	Mobile Checkout Optimization Roadmap aufsetzen 
+4.	Shop-Change-Begleitung bei Theme/App-Updates verbessern 
+5.	Wallet- und Conversion-Benchmarking strukturieren
+

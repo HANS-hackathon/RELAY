@@ -1,0 +1,437 @@
+BELLA CASA LIVING AG – COMPLETE CUSTOMER PACK
+Customer Name: Bella Casa Living AG
+Customer ID: CUST-002
+Industry: Home and Living
+Region: DE / AT
+Segment: Mid-Market / Enterprise-like
+Business Model: Omnichannel-leaning E-Commerce Retail
+Primary Sales Channel: Own Online Shop
+Integration Type: Magento / Adobe Commerce
+Payment Setup: Cards, Invoice, Installments, Wallets
+Relationship Health: Medium
+Primary Risk: Relationship Risk
+Growth Potential: Medium to High
+Bella Casa Living AG
+Customer ID: CUST-002
+Legal Name: Bella Casa Living AG
+Display Name: Bella Casa Living
+Industry: Home and Living
+Business Model: Structured E-Commerce Retail
+Region: DE / AT
+Country of Incorporation: Germany
+Company Size: Mid-Market / Enterprise-like
+Merchant Status: Live
+Relationship Health: Medium
+Primary Risk Flag: Relationship Risk
+Growth Potential: Medium to High
+Integration Type: Magento / Adobe Commerce
+Primary Payment Setup: Cards, Invoice, Installments, Wallets
+BNPL Relevant: Yes
+Contract Status: Active
+Service Tier: Premium
+Go-Live Date: 2024-11-01
+Preferred Communication Language: German
+Preferred Contact Channel: Structured email, scheduled calls for complex topics 
+Registered Address:
+Bella Casa Living AG
+Kaiserallee 74
+76133 Karlsruhe
+Germany
+Billing Address:
+Bella Casa Living AG
+Accounts Payable
+Kaiserallee 74
+76133 Karlsruhe
+Germany
+VAT ID: DE287654321
+Commercial Register: HRB 771245 Mannheim
+Tax Number: 35/456/78912 
+Fake Bank Details:
+Bank Name: Süddeutsche Handelsbank
+IBAN: DE90500205000098765432
+BIC: SDHBDEFFXXX 
+Annual TPV: EUR 31.8 million
+Average Monthly TPV: EUR 2.65 million
+Peak Monthly TPV: EUR 4.10 million
+Average Order Value: EUR 214
+Monthly Transactions: approx. 12,400
+Desktop Share: 58 %
+Invoice Share: 34 %
+YoY Growth: +12 % 
+General / Main Contact:
+Katharina Wolf — Head of Payments — katharina.wolf@bellacasa-demo.com
+Billing Contact:
+Sven Maurer — Finance Manager — sven.maurer@bellacasa-demo.com
+Invoice Recipient / Rechnungsempfänger:
+Accounts Payable / Finance — finance@bellacasa-demo.com
+Technical / Live Mail Contact:
+Tobias Kern — ERP / Reconciliation Lead — tobias.kern@bellacasa-demo.com
+Insights User:
+Elisa Brandt — E-Commerce Director — elisa.brandt@bellacasa-demo.com
+Managing Director / Geschäftsführer:
+Martin Seidel — Managing Director — martin.seidel@bellacasa-demo.com
+Beneficial Owner / Wirtschaftlich Berechtigter:
+Martin Seidel — Managing Director — martin.seidel@bellacasa-demo.com
+BNPL Dunning Contact:
+Sven Maurer — Finance Manager — sven.maurer@bellacasa-demo.com
+BNPL Merchant Support Contact:
+Katharina Wolf — Head of Payments — katharina.wolf@bellacasa-demo.com
+BNPL Merchant Portal User UPL:
+Elisa Brandt — E-Commerce Director — elisa.brandt@bellacasa-demo.com
+
+________________________________________
+1. Executive Summary
+Bella Casa Living AG ist ein strukturierter Händler mit hohem Anspruch an Prozessstabilität, Reconciliation-Qualität, Settlement-Transparenz und verlässliche Betreuung. Im Unterschied zu Nordlicht Outdoor stehen hier nicht primär Wallet- oder Mobile-Themen im Vordergrund, sondern vor allem Finance-nahe Fragestellungen, Service-Level, kommerzielle Transparenz und saubere Governance.
+Die Beziehung ist professionell, aber fordernd. Der Kunde kommuniziert sachlich und formal, eskaliert jedoch schnell, wenn Auszahlungen, Gebühren, Abrechnungslogiken oder Zuständigkeiten nicht klar nachvollziehbar sind. Technische Themen sind relevant, aber weniger emotional aufgeladen als Finance- und Service-Fragen.
+Bella Casa Living AG ist ein wertvoller Kunde mit solidem Volumen, mehreren internen Stakeholdern und Potenzial für strategische Weiterentwicklung. Wachstum und zusätzliche Zahlungsoptionen sind grundsätzlich interessant, jedoch nur dann, wenn Service-Qualität und Transparenz auf einem erwarteten Niveau liegen.
+________________________________________
+2. Account Overview
+Bella Casa Living AG arbeitet mit mehreren Fachbereichen parallel: Payments, Finance, E-Commerce und ERP/Reconciliation. Dadurch entstehen oft mehrstufige Anforderungen an Antworten. Der Kunde akzeptiert keine fragmentierten Rückmeldungen aus unterschiedlichen Richtungen, sondern erwartet konsolidierte, nachvollziehbare und belastbare Kommunikation.
+Wesentliche Erwartungen des Kunden:
+1.	klare und vollständige Finance-Antworten
+2.	transparente Herleitung von Gebühren und Zahlungsströmen
+3.	saubere Steuerung offener Themen
+4.	verlässliche Zuständigkeiten
+5.	Verknüpfung von kommerziellen Gesprächen mit Service-Qualität
+Die Beziehung ist grundsätzlich stabil, aber an mehreren Stellen sensibel. Besonders heikel sind:
+•	Settlement-Differenzen
+•	unvollständige oder verspätete Antworten
+•	fehlende Konsolidierung über Teams hinweg
+•	Konditionsdiskussionen ohne Berücksichtigung des Betreuungsmodells
+________________________________________
+3. Key Stakeholders
+Katharina Wolf – Head of Payments
+•	strategische Hauptansprechpartnerin
+•	interessiert an Governance, Stabilität und professioneller Steuerung
+•	betrachtet Payment als strategischen Enabler, nicht nur als operatives Thema
+Sven Maurer – Finance Manager
+•	zentral für Settlement, Gebühren und Auszahlungsfragen
+•	detailorientiert
+•	erwartet eindeutige Herleitungen und belastbare Finanzkommunikation
+Elisa Brandt – E-Commerce Director
+•	interessiert an Performance, operativer Zuverlässigkeit und Ausbauoptionen
+•	bringt Business-Perspektive in Gespräche ein
+Tobias Kern – ERP / Reconciliation Lead
+•	sehr strukturiert
+•	prüft Reports, Zahlungsströme und Abstimmungslogiken
+•	stellt oft die präzisesten Rückfragen
+________________________________________
+4. Business Snapshot
+Commercial Overview
+Bella Casa Living AG ist ein etablierter Home-and-Living-B2C-Händler mit höherem Warenkorb und stärkerer Relevanz von Rechnung und Ratenkauf als bei stärker impulsgetriebenen B2C-E-Commerce-Setups. Das Geschäft ist weniger impulsgetrieben als bei kleineren B2C-Marken, dafür aber sensibler bei Finance- und Prozessfragen.
+Core Business Metrics
+Annual TPV (last 12 months): EUR 31.8 million
+Average monthly TPV: EUR 2.65 million
+Peak month TPV: EUR 4.10 million
+Average order value: EUR 214
+Average monthly transaction count: approx. 12,400
+Peak month transaction count: approx. 18,900
+Refund rate: 4.6 %
+Chargeback rate: 0.19 %
+Channel and Payment Mix
+Share of desktop transactions: 58 %
+Share of mobile transactions: 42 %
+Payment Method Mix
+•	Cards: 39 %
+•	Invoice: 34 %
+•	Installments: 17 %
+•	Wallets: 10 %
+Conversion and Operational KPIs
+Average checkout completion rate: 67.9 %
+Authorization success rate: 92.6 %
+Settlement complexity: high
+Reconciliation sensitivity: very high
+Growth Metrics
+Year-over-year TPV growth: +12 %
+Projected TPV next 12 months: EUR 34–36 million
+Estimated upside through payment expansion and better conversion: EUR 1.8–2.7 million annual TPV
+________________________________________
+5. Finance and Service Impact Summary
+Issue Cluster 1: Settlement and payout discrepancies
+Bella Casa Living AG reagiert besonders sensibel auf Auszahlungsdifferenzen oder auf Themen, die intern nicht sauber gegen das ERP oder Finance-Reporting abgestimmt werden können.
+Typical impact areas:
+•	delayed internal month-end reconciliation
+•	escalations from finance leadership
+•	reduced trust in provider-side reporting
+•	pressure on account management to consolidate answers
+Issue Cluster 2: Fee transparency
+Gebührenstruktur und Gebührenpositionen werden vom Kunden aktiv überprüft. Unklare Formulierungen oder fehlende Erläuterungen werden schnell als Professionalitätslücke wahrgenommen.
+Issue Cluster 3: Service and ownership quality
+Der Kunde knüpft kommerzielle Offenheit stark an die wahrgenommene Qualität der Betreuung. Gute Preisgespräche sind nur möglich, wenn Service-Level, Antwortqualität und Ownership stimmen.
+________________________________________
+6. Commercial and Growth View
+Current Commercial Position
+Current blended fee rate: 1.67 %
+Commercial status: stable but review-sensitive
+Pricing pressure: medium
+Negotiation style: structured, data-backed, service-linked
+Growth Potential
+Bella Casa Living AG bietet Wachstumspotenzial in folgenden Bereichen:
+•	Ausbau ausgewählter Zahlungsmittel
+•	Optimierung von Conversion im Checkout
+•	Stärkerer Einsatz von Wallets in passenden Segmenten
+•	strukturierte QBRs mit Business- und Finance-Fokus
+Strategic Opportunities
+1. Better finance reporting and reconciliation support
+Kann Vertrauen stärken und Friktion deutlich reduzieren.
+2. Service-linked commercial review
+Preis- und Service-Modell gemeinsam adressieren.
+3. Checkout and payment mix optimization
+Vor allem im Zusammenspiel von Rechnung, Ratenkauf und Karten.
+________________________________________
+7. Handover Briefing
+Current State
+Die Beziehung ist intakt, aber anspruchsvoll. Der Kunde ist nicht grundsätzlich unzufrieden, misst die Qualität der Zusammenarbeit jedoch stark an Finance-Transparenz, Struktur und Verlässlichkeit.
+What a new Account Manager must know
+•	Finance-Antworten müssen vollständig und konsolidiert sein
+•	Einzelne offene Punkte dürfen nicht isoliert oder doppelt beantwortet werden
+•	Konditionsgespräche ohne Service-Kontext greifen zu kurz
+•	Der Kunde eskaliert sachlich, aber konsequent
+•	Unklare Zuständigkeiten werden schnell negativ wahrgenommen
+Current Risks
+•	Vertrauensverlust bei Reconciliation-/Settlement-Themen
+•	Frust über widersprüchliche Aussagen
+•	schwieriger werdende Preisgespräche bei mangelnder Service-Qualität
+Current Opportunities
+•	Strategischer Ausbau bei professioneller Betreuung
+•	Besseres Reporting als Differenzierungsfaktor
+•	Ausbau weiterer Zahlarten bei belastbarer Governance
+________________________________________
+8. Open Issues Summary
+1.	Konsolidierte Beantwortung offener Settlement- und Gebührenfragen 
+2.	Transparente Dokumentation der Gebührenlogik 
+3.	Sauberer Status zur Freischaltung zusätzlicher Zahlungsmittel 
+4.	Verbindung von kommerziellem Review mit Service-Modell 
+5.	Verbesserung der Ownership-Struktur über Teams hinweg
+________________________________________
+9. Communication History – Detailed Extract
+________________________________________
+1. 2024-08-28 – Email – Projektstart und Abstimmung des Onboarding-Prozesses
+Sentiment: Neutral
+Topic: Onboarding
+Guten Tag zusammen,
+vielen Dank für den bisherigen Austausch. Wir würden gern den Onboarding-Prozess möglichst früh strukturiert aufsetzen, damit wir intern sowohl die technische als auch die finanzseitige Vorbereitung sauber koordinieren können.
+Für uns ist wichtig, von Beginn an Klarheit über die benötigten Unterlagen, die technische Einbindung sowie die Kriterien für die spätere Freischaltung der gewünschten Zahlungsmittel zu haben. Wenn Sie uns dazu einen gebündelten Überblick zur Verfügung stellen können, erleichtert uns das die Abstimmung erheblich.
+Mit freundlichen Grüßen
+Elisa Brandt
+________________________________________
+2. 2024-09-02 – Email – Rückfrage zu erforderlichen Onboarding-Unterlagen
+Sentiment: Neutral
+Topic: Onboarding Documents
+Guten Morgen,
+im Rahmen der internen Vorbereitung ist aufgefallen, dass die Anforderungen an die einzureichenden Unterlagen in mehreren Mails teilweise unterschiedlich dargestellt wurden. Bevor wir hier unnötig Schleifen erzeugen, bitten wir um eine konsolidierte Liste der tatsächlich noch offenen Dokumente.
+Unser Ziel ist, das Onboarding zügig und sauber durchzuführen. Dafür benötigen wir an dieser Stelle eine eindeutige Basis.
+Beste Grüße
+Katharina Wolf
+________________________________________
+3. 2024-09-05 – Call Note – Onboarding Governance Call
+Sentiment: Positive
+Topic: Project Setup
+Kunde wirkte sehr strukturiert und erwartete früh eine klare Governance. Insbesondere Katharina Wolf machte deutlich, dass technische und Finance-relevante Punkte nicht getrennt nebeneinander laufen sollten, sondern in einem nachvollziehbaren Gesamtprozess.
+________________________________________
+4. 2024-09-12 – Email – Frage zu Freischaltung einzelner Zahlungsmittel
+Sentiment: Neutral
+Topic: Payment Enablement
+Hallo zusammen,
+wir würden gern besser verstehen, in welcher Reihenfolge die gewünschten Zahlungsmittel freigeschaltet werden können und welche fachlichen oder technischen Voraussetzungen dafür jeweils erfüllt sein müssen.
+Für unsere interne Planung ist wichtig, ob wir mit einem gestaffelten Vorgehen rechnen müssen oder ob eine gebündelte Freischaltung realistisch ist.
+Viele Grüße
+Elisa Brandt
+________________________________________
+5. 2024-09-20 – Email – Bitte um Konkretisierung der Go-Live-Voraussetzungen
+Sentiment: Neutral
+Topic: Go-Live Preparation
+Guten Tag,
+wir möchten vermeiden, dass kurz vor dem geplanten Go-Live noch neue Voraussetzungen auftauchen. Bitte stellen Sie uns daher eine klare Übersicht bereit, welche Punkte für den Go-Live zwingend erfüllt sein müssen und welche Themen optional oder nachgelagert behandelt werden können.
+Das hilft uns intern sowohl im Commerce- als auch im Finance-Bereich bei der Ressourcenplanung.
+Mit freundlichen Grüßen
+Katharina Wolf
+________________________________________
+6. 2024-10-04 – Meeting Note – Onboarding Status und Freischaltungslogik
+Sentiment: Neutral
+Topic: Payment Enablement / Governance
+Meeting mit Payments, E-Commerce und Finance auf Kundenseite. Hauptthema war die Reihenfolge und Logik der Zahlungsmittelfreischaltung. Kunde erwartet nachvollziehbare Kriterien und möchte Überraschungen im Freigabeprozess vermeiden.
+________________________________________
+7. 2024-10-18 – Email – Rückfrage zu Testfällen und Reports
+Sentiment: Neutral
+Topic: Testing / Reporting
+Hallo,
+wir befinden uns aktuell in den letzten Schritten der Vorbereitung und würden gern noch einmal genauer verstehen, welche Reports uns zum Start zur Verfügung stehen und welche Testfälle aus Ihrer Sicht vor der finalen Freischaltung zwingend durchlaufen werden sollten.
+Da unser Finance-Team frühzeitig in die spätere Abstimmung eingebunden ist, wäre eine möglichst konkrete Antwort hilfreich.
+Viele Grüße
+Tobias Kern
+________________________________________
+8. 2024-11-01 – Email – Go-Live erfolgt, Bitte um engere Begleitung in Startphase
+Sentiment: Positive
+Topic: Go-Live
+Guten Morgen,
+der Go-Live ist erfolgt und die ersten Transaktionen laufen grundsätzlich erwartungsgemäß. Für die erste Phase nach Start wäre es aus unserer Sicht sinnvoll, die Kommunikation etwas enger zu halten, insbesondere im Hinblick auf Reporting, Settlement-Verständnis und eventuelle Auffälligkeiten in der Abstimmung.
+Wir würden uns freuen, wenn wir für die ersten Wochen einen klaren Ansprechpartner für operative Rückfragen haben.
+Beste Grüße
+Elisa Brandt
+________________________________________
+9. 2024-11-12 – Email – Erste Rückfrage zur Auszahlungslogik
+Sentiment: Neutral
+Topic: Settlement
+Hallo zusammen,
+bei der ersten internen Betrachtung der Auszahlungslogik sind bei uns noch Verständnisfragen offen. Es geht dabei nicht um eine akute Eskalation, sondern zunächst darum, dass wir die Struktur der Zahlungsströme sauber gegen unsere internen Erwartungen abgleichen möchten.
+Können Sie uns bitte erläutern, welche Bestandteile in welcher Form und in welcher zeitlichen Logik in der Auszahlung berücksichtigt werden?
+Viele Grüße
+Sven Maurer
+________________________________________
+10. 2024-11-14 – Call Note – Abstimmung zur Settlement-Logik
+Sentiment: Neutral
+Topic: Reconciliation
+Finance-Team des Kunden benötigt mehr Klarheit über Herleitung und zeitliche Zuordnung. Kein akuter Konflikt, aber deutliches Signal, dass oberflächliche Antworten hier nicht ausreichen werden.
+________________________________________
+11. 2024-11-27 – Email – Gebührenpositionen in der Auswertung nicht vollständig verständlich
+Sentiment: Negative
+Topic: Fee Transparency
+Guten Tag,
+bei der Durchsicht der aktuellen Auswertung sind mehrere Gebührenpositionen aus Sicht unseres Finance-Teams nicht selbsterklärend. Insbesondere fehlt uns an einigen Stellen die eindeutige Zuordnung, wodurch die interne Nachvollziehbarkeit erschwert wird.
+Wir bitten daher um eine strukturierte Erläuterung der betreffenden Positionen, idealerweise mit Bezug auf konkrete Beispieltransaktionen oder Kategorien.
+Mit freundlichen Grüßen
+Sven Maurer
+________________________________________
+12. 2024-12-02 – Email – Bitte um konsolidierte Rückmeldung zu offenen Finance-Fragen
+Sentiment: Negative
+Topic: Finance Coordination
+Hallo,
+aktuell erreichen uns Antworten zu einzelnen Finance-Rückfragen aus unterschiedlichen Richtungen, teilweise mit leicht unterschiedlicher Tiefe. Das hilft uns in der Gesamtbewertung leider nur eingeschränkt weiter.
+Wir würden Sie daher bitten, die offenen Fragen zu bündeln und uns eine konsolidierte Rückmeldung zu geben, damit wir die Themen sauber intern abschließen können.
+Viele Grüße
+Katharina Wolf
+________________________________________
+13. 2024-12-05 – Call Note – Frust über fragmentierte Antworten
+Sentiment: Negative
+Topic: Service Quality
+Kunde zeigt sich unzufrieden darüber, dass Finance-Themen nicht zentral beantwortet wurden. Katharina Wolf betont, dass weniger die Reaktionsgeschwindigkeit als vielmehr die Qualität und Konsistenz der Antworten entscheidend sei.
+________________________________________
+14. 2025-01-15 – Email – Fehlende Unterlagen im Onboarding / Erweiterungsthema
+Sentiment: Neutral
+Topic: Onboarding Follow-up
+Guten Tag,
+im Zusammenhang mit der geplanten Erweiterung einzelner Zahlungsmittel haben wir den Hinweis erhalten, dass weitere Unterlagen erforderlich sein könnten. Bitte teilen Sie uns konkret mit, welche Dokumente in diesem Zusammenhang noch fehlen und ob sich daraus Auswirkungen auf den erwarteten Zeitplan ergeben.
+Beste Grüße
+Elisa Brandt
+________________________________________
+15. 2025-02-03 – Email – Abweichung zwischen Auszahlung und interner Abstimmung
+Sentiment: Negative
+Topic: Settlement / Reconciliation
+Guten Morgen,
+bei der heutigen Auszahlung sehen wir eine Abweichung zu unserer internen Abstimmung. Nach aktuellem Stand können wir noch nicht nachvollziehen, wie sich die Differenz im Detail zusammensetzt.
+Bitte senden Sie uns kurzfristig eine strukturierte Aufstellung der relevanten Bestandteile, idealerweise getrennt nach Kartenumsätzen, Refunds und Gebührenkomponenten. Für unsere interne Bewertung ist wichtig, dass wir die Logik nicht nur in Summe, sondern nachvollziehbar entlang der Positionen verstehen.
+Vielen Dank
+Sven Maurer
+________________________________________
+16. 2025-02-05 – Call Note – Statuscall zu offenen Abrechnungsfragen
+Sentiment: Escalated
+Topic: Finance Escalation
+Kunde deutlich unzufrieden. Hauptkritikpunkt ist nicht allein die Differenz selbst, sondern dass bisher keine konsolidierte Antwort mit eindeutiger Herleitung vorliegt. Erwartung: ein zentraler Owner und eine vollständige Rückmeldung statt mehrerer Teilantworten.
+________________________________________
+17. 2025-02-06 – Email – Bitte um zentrale Koordination der Rückmeldung
+Sentiment: Negative
+Topic: Ownership
+Hallo zusammen,
+nach dem heutigen Austausch möchten wir noch einmal betonen, dass wir für dieses Thema eine gebündelte und eindeutig verantwortete Rückmeldung benötigen. Für uns ist nicht praktikabel, mehrere Einzelantworten aus verschiedenen Fachbereichen zusammenzuführen und daraus selbst die Gesamtlogik abzuleiten.
+Bitte benennen Sie für dieses Thema eine zentrale verantwortliche Person und teilen Sie uns mit, bis wann wir mit einer vollständigen Einordnung rechnen können.
+Viele Grüße
+Katharina Wolf
+________________________________________
+18. 2025-03-01 – Email – Bitte um Erläuterung der Gebührenstruktur
+Sentiment: Negative
+Topic: Pricing / Fees
+Hallo,
+im Rahmen unserer laufenden internen Prüfung benötigen wir eine verständliche und belastbare Erläuterung der aktuellen Gebührenstruktur. Einige Positionen erscheinen uns in der aktuellen Darstellung nicht ausreichend selbsterklärend, insbesondere wenn wir diese gegen unsere internen Planungsannahmen legen.
+Es wäre daher hilfreich, wenn Sie uns die Logik der Gebührenkategorien in einer Form zusammenfassen könnten, die sowohl für Finance als auch für Payments intern gut weiterverwendbar ist.
+Vielen Dank
+Katharina Wolf
+________________________________________
+19. 2025-03-05 – Call Note – Status zur Freischaltung weiterer Zahlarten
+Sentiment: Neutral
+Topic: Payment Enablement
+Kunde fragt nach realistischer ETA für die Aktivierung weiterer Zahlungsmittel. Marketing- und Commerce-Team planen intern bereits mit erweiterten Checkout-Optionen. Verzögerungen sind aktuell noch tolerierbar, sollten aber nicht ohne klare Begründung länger werden.
+________________________________________
+20. 2025-03-11 – Email – Rückfrage zu Service-Level bei Finance-Themen
+Sentiment: Negative
+Topic: Service Quality
+Guten Tag,
+unabhängig von den fachlichen Inhalten möchten wir anmerken, dass Finance-Rückfragen in den vergangenen Wochen teilweise mit zu langen Zwischenzeiten oder ohne klaren Zwischenstand bearbeitet wurden. Gerade bei Themen, die interne Monatsabschlüsse oder Reconciliation betreffen, ist das für uns schwierig.
+Wir erwarten nicht, dass jede Frage sofort abschließend beantwortet wird. Wir erwarten jedoch Transparenz darüber, wer ein Thema verantwortet, wo es aktuell steht und bis wann mit der nächsten inhaltlichen Rückmeldung zu rechnen ist.
+Mit freundlichen Grüßen
+Sven Maurer
+________________________________________
+21. 2025-04-11 – Meeting Note – Review von Konditionen und Service-Modell
+Sentiment: Neutral
+Topic: Commercial Negotiation / Service Quality
+Kunde stellt klar, dass Preis und Service nicht getrennt betrachtet werden. Katharina Wolf macht deutlich, dass ein attraktives kommerzielles Modell nur dann relevant ist, wenn Betreuung, Verlässlichkeit und Reaktionsqualität zum Anspruch des Accounts passen.
+Diskutiert wurden:
+•	Gebührenstruktur
+•	wahrgenommenes Service-Level
+•	Eskalationswege
+•	Voraussetzungen für weiteren Ausbau
+________________________________________
+22. 2025-04-15 – Email – Konditionen nur im Zusammenhang mit Betreuungsmodell sinnvoll
+Sentiment: Neutral
+Topic: Commercial Positioning
+Hallo zusammen,
+im Nachgang zu unserem Termin möchten wir noch einmal festhalten, dass wir eine Überprüfung der Konditionen nur dann für zielführend halten, wenn diese gemeinsam mit dem Betreuungs- und Service-Modell betrachtet wird.
+Aus unserer Sicht wäre ein isolierter Preisvergleich zu kurz gegriffen, solange zentrale Fragen zu Ownership, Reaktionswegen und Qualität der Finance-Kommunikation nicht ebenfalls sauber adressiert werden.
+Beste Grüße
+Katharina Wolf
+________________________________________
+23. 2025-04-23 – Email – Interesse an strukturiertem QBR-Format
+Sentiment: Positive
+Topic: Growth / Governance
+Hallo,
+unabhängig von den operativen und finance-seitigen Themen halten wir es für sinnvoll, die Zusammenarbeit künftig stärker in ein strukturiertes Review-Format zu überführen. Ein regelmäßiger Termin mit Blick auf Zahlungsarten, Conversion, Service-Themen und offene Entwicklungen könnte helfen, operative und strategische Aspekte besser zusammenzuführen.
+Wenn Sie dafür einen sinnvollen Vorschlag haben, würden wir uns diesen gern anschauen.
+Viele Grüße
+Elisa Brandt
+________________________________________
+24. 2025-05-07 – Email – Danke für die konsolidierte Finance-Rückmeldung
+Sentiment: Positive
+Topic: Resolution
+Guten Morgen,
+vielen Dank für die zuletzt gesendete konsolidierte Rückmeldung zu den offenen Finance-Themen. Die Darstellung war für uns deutlich besser nachvollziehbar als in den vorangegangenen Schleifen und hat es uns intern erleichtert, die offenen Punkte sauber zu schließen.
+Wenn wir diese Form der Aufbereitung künftig als Standard etablieren können, wäre das aus unserer Sicht ein klarer Fortschritt.
+Viele Grüße
+Sven Maurer
+________________________________________
+25. 2025-05-21 – Email – Interesse an weiterem Ausbau bei stabilerer Betreuung
+Sentiment: Positive
+Topic: Growth / Relationship
+Hallo zusammen,
+wir nehmen wahr, dass sich die Struktur und Nachverfolgung der offenen Themen in den vergangenen Wochen verbessert hat. Sollte sich dieses Niveau in der Betreuung weiter stabilisieren, sehen wir grundsätzlich auch Potenzial, die Zusammenarbeit inhaltlich weiter auszubauen.
+Dazu würden für uns insbesondere ein professionelles Review-Format, ein klarer Service-Rahmen und Transparenz in Finance-Themen gehören. Wenn diese Elemente gut zusammenspielen, ist aus unserer Sicht auch ein weiterer Ausbau realistisch.
+Beste Grüße
+Katharina Wolf
+________________________________________
+10. Relationship Assessment
+Strengths
+•	professioneller, strategisch relevanter Kunde
+•	klare Ansprechpartner
+•	grundsätzlich offen für Ausbau
+•	positives Signal bei guter Struktur und konsolidierter Kommunikation
+Weaknesses
+•	geringe Toleranz für inkonsistente Antworten
+•	Finance-Themen eskalieren schnell
+•	Preisgespräche werden an Service-Level gekoppelt
+•	mehrere Stakeholder erhöhen Komplexität
+Churn Risk
+Medium
+Growth Potential
+Medium to High
+Recommended Handling Style
+•	präzise
+•	konsolidiert
+•	formell
+•	governance-stark
+•	finance-sicher
+________________________________________
+11. Recommended Next Actions
+1.	standardisierte konsolidierte Antwortform für Finance-Themen etablieren 
+2.	Gebührenlogik verständlich und wiederverwendbar dokumentieren 
+3.	QBR-Format mit Finance-, Commerce- und Service-Blick aufsetzen 
+4.	Zahlungsarten-Ausbau mit klarer ETA und Voraussetzungen versehen 
+5.	kommerzielle Diskussionen immer mit Betreuungsmodell koppeln
