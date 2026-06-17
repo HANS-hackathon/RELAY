@@ -291,6 +291,47 @@
   </style>
 </head>
 <body>
+  <!-- ══ SPLASH SCREEN ══ -->
+<div id="splash" style="
+  position:fixed; top:0; left:0; right:0; bottom:0;
+  background:#0d0d1a;
+  display:flex; flex-direction:column;
+  align-items:center; justify-content:center;
+  z-index:9999; gap:1.5rem;
+  animation: splashOut .5s ease 2.8s forwards;">
+
+  <!-- H.A.N.S. Logo -->
+  <img src="hans-logo.png"
+       style="height:90px;object-fit:contain;"
+       alt="H.A.N.S."/>
+
+  <!-- by -->
+  <div style="font-size:.8rem;font-weight:600;
+              color:rgba(255,255,255,.4);
+              letter-spacing:3px;
+              text-transform:uppercase;">
+    by
+  </div>
+
+  <!-- Unzer Logo -->
+  <img src="unzer-logo.png"
+       style="height:36px;object-fit:contain;"
+       alt="Unzer"/>
+</div>
+
+<style>
+@keyframes splashOut {
+  0%   { opacity:1; pointer-events:all; }
+  100% { opacity:0; pointer-events:none; }
+}
+</style>
+
+<script>
+setTimeout(()=>{
+  const s=document.getElementById('splash');
+  if(s) s.style.display='none';
+}, 3300);
+</script>
 
 <!-- Voice Status Bar -->
 <div class="voice-bar" id="voice-bar">
