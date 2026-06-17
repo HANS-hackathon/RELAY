@@ -130,6 +130,8 @@
     .hf { background: rgba(231,76,60,.15); color: #ff6b6b; }
     .hm { background: rgba(245,166,35,.15); color: #f5a623; }
     .hp { background: rgba(0,201,125,.15); color: #00c97d; }
+    .he { background: rgba(231,76,60,.3); color: #ff0000; animation: pulse 1.5s infinite; }
+    @keyframes pulse { 0%, 100% { opacity: 1; } 50% { opacity: .5; } }
     .sel-info { font-size: .73rem; color: var(--accent2); font-weight: 600; margin-top: .5rem; }
 
     .r2 { display: grid; grid-template-columns: 1fr 1fr; gap: .75rem; }
@@ -140,7 +142,8 @@
       width: 100%; padding: .52rem .8rem;
       background: var(--card2); border: 1px solid var(--border2);
       border-radius: 8px; font-size: .83rem; color: var(--text);
-      font-family: inherit; transition: border-color .15s, box-shadow .15s; -webkit-appearance: none;
+      font-family: inherit; transition: border-color .15s, box-shadow .15s;
+      -webkit-appearance: none;
     }
     input::placeholder, textarea::placeholder { color: var(--text3); }
     input:focus, textarea:focus, select:focus { outline: none; border-color: rgba(231,76,60,.5); box-shadow: 0 0 0 3px rgba(231,76,60,.1); }
@@ -157,16 +160,7 @@
     .bxs:hover { border-color: var(--accent); color: var(--accent); }
     .div { height: 1px; background: var(--border); margin: 1.25rem 0; }
 
-    /* Hinweis Banner */
-    .no-termine-banner {
-      background: rgba(245,166,35,.1);
-      border: 1px solid rgba(245,166,35,.3);
-      border-radius: 8px;
-      padding: .75rem 1rem;
-      font-size: .78rem;
-      color: #f5a623;
-      margin-bottom: 1rem;
-    }
+    .no-termine-banner { background: rgba(245,166,35,.1); border: 1px solid rgba(245,166,35,.3); border-radius: 8px; padding: .75rem 1rem; font-size: .78rem; color: #f5a623; margin-bottom: 1rem; }
 
     .og { display: grid; grid-template-columns: 1fr 1fr; gap: .6rem; }
     .opt { background: var(--card2); border: 1px solid var(--border); border-radius: 10px; padding: .9rem 1rem; cursor: pointer; display: flex; align-items: flex-start; gap: .7rem; transition: all .2s; }
@@ -180,7 +174,7 @@
     .opt.sel .oc::after { content: '✓'; font-size: .58rem; color: white; font-weight: 800; }
 
     .br { display: flex; gap: .6rem; flex-wrap: wrap; }
-    .btn { padding: .55rem 1.3rem; border-radius: 8px; font-size: .83rem; font-weight: 500; cursor: pointer; transition: all .2s; font-family: inherit; }
+    .btn { padding: .55rem 1.3rem; border-radius: 8px; font-size: .83rem; font-weight: 500; cursor: pointer; transition: all .2s; font-family: inherit; border: none; }
     .bp { background: var(--accent); color: white; border: 1px solid var(--accent); box-shadow: 0 0 20px rgba(231,76,60,.25); }
     .bp:hover:not(:disabled) { background: var(--accent2); box-shadow: 0 0 28px rgba(231,76,60,.4); transform: translateY(-1px); }
     .bp:disabled { background: rgba(255,255,255,.08); border-color: var(--border); color: var(--text3); cursor: not-allowed; box-shadow: none; }
@@ -301,19 +295,31 @@
       <div class="cust-grid">
         <div class="cust-card" onclick="toggleCust('bella_casa','v',this)">
           <div class="cust-chk"></div>
-          <div><div class="cust-name">Bella Casa Living AG</div><div class="cust-meta"><span class="htag hm">Medium</span> · EUR 31,8 Mio. · DE/AT</div></div>
+          <div>
+            <div class="cust-name">Bella Casa Living AG</div>
+            <div class="cust-meta"><span class="htag he">🚨 Eskalation</span> · EUR 31,8 Mio. · DE/AT</div>
+          </div>
         </div>
         <div class="cust-card" onclick="toggleCust('fitfuel','v',this)">
           <div class="cust-chk"></div>
-          <div><div class="cust-name">FitFuel Nutrition Europe</div><div class="cust-meta"><span class="htag hp">Positiv</span> · EUR 14,7 Mio. · EU</div></div>
+          <div>
+            <div class="cust-name">FitFuel Nutrition Europe</div>
+            <div class="cust-meta"><span class="htag hp">Positiv</span> · EUR 14,7 Mio. · EU</div>
+          </div>
         </div>
         <div class="cust-card" onclick="toggleCust('nordlicht','v',this)">
           <div class="cust-chk"></div>
-          <div><div class="cust-name">Nordlicht Outdoor GmbH</div><div class="cust-meta"><span class="htag hm">Medium</span> · EUR 18,4 Mio. · DACH</div></div>
+          <div>
+            <div class="cust-name">Nordlicht Outdoor GmbH</div>
+            <div class="cust-meta"><span class="htag hm">Medium</span> · EUR 18,4 Mio. · DACH</div>
+          </div>
         </div>
         <div class="cust-card" onclick="toggleCust('urbancraft','v',this)">
           <div class="cust-chk"></div>
-          <div><div class="cust-name">UrbanCraft Market GmbH</div><div class="cust-meta"><span class="htag hf">Fragil</span> · EUR 8,9 Mio. · DACH</div></div>
+          <div>
+            <div class="cust-name">UrbanCraft Market GmbH</div>
+            <div class="cust-meta"><span class="htag hf">Fragil</span> · EUR 8,9 Mio. · DACH</div>
+          </div>
         </div>
       </div>
       <div class="sel-info" id="v-si"></div>
@@ -328,7 +334,7 @@
         <div class="fg"><label>Bis <span class="req">*</span></label><input type="date" id="v-end" onchange="checkTermine()"/></div>
       </div>
       <div id="termine-hint" class="no-termine-banner hidden">
-        ℹ️ Für den gewählten Zeitraum sind keine Termine hinterlegt. Im Output wird ein Hinweis ausgegeben.
+        ℹ️ Für den gewählten Zeitraum sind keine Termine hinterlegt.
       </div>
       <div class="fg"><label>Weitere Notizen (optional)</label><textarea id="v-notes" placeholder="Zusätzliche Hinweise für die Vertretung..."></textarea></div>
     </div>
@@ -341,19 +347,31 @@
       <div class="cust-grid">
         <div class="cust-card" onclick="toggleCust('bella_casa','c',this)">
           <div class="cust-chk"></div>
-          <div><div class="cust-name">Bella Casa Living AG</div><div class="cust-meta"><span class="htag hm">Medium</span> · EUR 31,8 Mio. · DE/AT</div></div>
+          <div>
+            <div class="cust-name">Bella Casa Living AG</div>
+            <div class="cust-meta"><span class="htag he">🚨 Eskalation</span> · EUR 31,8 Mio. · DE/AT</div>
+          </div>
         </div>
         <div class="cust-card" onclick="toggleCust('fitfuel','c',this)">
           <div class="cust-chk"></div>
-          <div><div class="cust-name">FitFuel Nutrition Europe</div><div class="cust-meta"><span class="htag hp">Positiv</span> · EUR 14,7 Mio. · EU</div></div>
+          <div>
+            <div class="cust-name">FitFuel Nutrition Europe</div>
+            <div class="cust-meta"><span class="htag hp">Positiv</span> · EUR 14,7 Mio. · EU</div>
+          </div>
         </div>
         <div class="cust-card" onclick="toggleCust('nordlicht','c',this)">
           <div class="cust-chk"></div>
-          <div><div class="cust-name">Nordlicht Outdoor GmbH</div><div class="cust-meta"><span class="htag hm">Medium</span> · EUR 18,4 Mio. · DACH</div></div>
+          <div>
+            <div class="cust-name">Nordlicht Outdoor GmbH</div>
+            <div class="cust-meta"><span class="htag hm">Medium</span> · EUR 18,4 Mio. · DACH</div>
+          </div>
         </div>
         <div class="cust-card" onclick="toggleCust('urbancraft','c',this)">
           <div class="cust-chk"></div>
-          <div><div class="cust-name">UrbanCraft Market GmbH</div><div class="cust-meta"><span class="htag hf">Fragil</span> · EUR 8,9 Mio. · DACH</div></div>
+          <div>
+            <div class="cust-name">UrbanCraft Market GmbH</div>
+            <div class="cust-meta"><span class="htag hf">Fragil</span> · EUR 8,9 Mio. · DACH</div>
+          </div>
         </div>
       </div>
       <div class="sel-info" id="c-si"></div>
@@ -471,14 +489,23 @@
 // KUNDENDATENBANK
 // ═══════════════════════════════════════
 const DB = {
+
   bella_casa: {
-    name:'Bella Casa Living AG', id:'CUST-002', health:'medium',
+    name:'Bella Casa Living AG', id:'CUST-002',
+    health:'escalated',
     segment:'Mid-Market / Enterprise-like', region:'DE / AT',
     tpv:'EUR 31,8 Mio./Jahr', growth:'+12% YoY', aov:'EUR 214',
     mobile:'42%', desktop:'58%', feeRate:'1,67%',
     payment:'Cards 39%, Invoice 34%, Installments 17%, Wallets 10%',
     integration:'Magento / Adobe Commerce', goLive:'2026-01-16',
     churn:'Medium', growthPot:'Medium to High',
+    eskalation: {
+      aktiv: true,
+      stufe: 'C-Level & Formale Androhung',
+      zeitraum: '18.06.2026 – 26.06.2026',
+      deadline: '26.06.2026',
+      inhalt: 'GF Martin Seidel hat C-Level-Eskalation vollzogen. Förmliches Schreiben mit Androhung rechtlicher Schritte (Klage auf vertragliche Erfüllung & Schadensersatz) bei Ausbleiben konsolidierter Finance-Lösung bis 26.06.2026. Alle operativen Themen blockiert bis zur C-Level-Klärung.'
+    },
     contacts:[
       {name:'Katharina Wolf', role:'Head of Payments', email:'katharina.wolf@bellacasa-demo.com', primary:true},
       {name:'Sven Maurer', role:'Finance Manager', email:'sven.maurer@bellacasa-demo.com'},
@@ -487,30 +514,51 @@ const DB = {
       {name:'Martin Seidel', role:'Managing Director', email:'martin.seidel@bellacasa-demo.com'}
     ],
     issues:[
+      'ESKALATION AKTIV: Konsolidierte Finance-Lösung bis 26.06.2026 liefern',
+      'Förmliche Klagedrohung – C-Level muss involviert sein',
+      'Alle operativen Themen blockiert bis zur Eskalationsauflösung',
       'Konsolidierte Beantwortung offener Settlement- und Gebührenfragen',
-      'Transparente Dokumentation der Gebührenlogik',
-      'Status zur Freischaltung zusätzlicher Zahlungsmittel',
-      'Kommerziellen Review mit Service-Modell verbinden',
       'Ownership-Struktur über Teams hinweg verbessern'
     ],
-    risks:'Vertrauensverlust bei Reconciliation/Settlement; widersprüchliche Aussagen; schwieriger werdende Preisgespräche',
-    opportunities:'Strategischer Ausbau; besseres Finance-Reporting; QBR-Format; Ausbau weiterer Zahlarten',
-    handoverNote:'Finance-Antworten müssen vollständig und konsolidiert sein. Konditionsgespräche ohne Service-Kontext greifen zu kurz. Kunde eskaliert sachlich aber konsequent.',
+    risks:'🚨 AKTIVE ESKALATION: Klagedrohung bis 26.06.2026. Vertrauensverlust bei Reconciliation/Settlement; widersprüchliche Aussagen; schwieriger werdende Preisgespräche.',
+    opportunities:'Nach Eskalationsauflösung: Strategischer Ausbau; besseres Finance-Reporting; QBR-Format; Ausbau weiterer Zahlarten',
+    handoverNote:'🚨 ESKALATION AKTIV (18.06.–26.06.2026): GF Martin Seidel hat C-Level-Eskalation mit förmlicher Klagedrohung vollzogen. DEADLINE 26.06.2026. Alle operativen Themen blockiert. Sofortige Eskalation an C-Level bei neuen Entwicklungen. Finance-Antworten müssen vollständig und konsolidiert sein.',
     actions:[
-      'Standardisierte konsolidierte Antwortform für Finance-Themen etablieren',
+      'SOFORT: C-Level informieren und koordinieren',
+      'SOFORT: Verbindlichen Zeitplan zur Finance-Aufarbeitung präsentieren',
+      'DEADLINE 26.06.2026: Vollständige konsolidierte Finance-Lösung liefern',
       'Gebührenlogik verständlich und wiederverwendbar dokumentieren',
-      'QBR-Format mit Finance-, Commerce- und Service-Blick aufsetzen',
-      'Zahlungsarten-Ausbau mit klarer ETA versehen',
-      'Kommerzielle Diskussionen immer mit Betreuungsmodell koppeln'
+      'Nach Eskalationsauflösung: QBR-Format aufsetzen'
     ],
     termine:[
-      {date:'2026-06-18', time:'10:00', title:'Abstimmung Settlement-Reporting', attendees:'Sven Maurer, Tobias Kern', prep:'Auszahlungslogik und Gebührenbestandteile vorbereiten', prio:'high'},
-      {date:'2026-06-23', time:'14:00', title:'Workshop Gebührenstruktur & Transparenz', attendees:'Katharina Wolf, Sven Maurer', prep:'Beispieltransaktionen aufbereiten', prio:'high'},
-      {date:'2026-06-27', time:'11:00', title:'Review Freischaltung Zahlungsmittel', attendees:'Katharina Wolf, Elisa Brandt', prep:'ETA und Voraussetzungen klären', prio:'medium'},
-      {date:'2026-07-02', time:'15:00', title:'Service- und Ownership-Review', attendees:'Katharina Wolf, AM', prep:'Zentraler Owner und Eskalationswege definieren', prio:'medium'},
-      {date:'2026-07-07', time:'10:00', title:'QBR Kickoff', attendees:'Katharina Wolf, Elisa Brandt, Sven Maurer', prep:'Conversion-Daten, Zahlungsarten-Mix, Service-Level', prio:'high'}
+      {date:'2026-06-18', time:'09:00',
+       title:'🚨 ESKALATION: Beginn Eskalationsphase',
+       attendees:'Martin Seidel (GF), C-Level, Account Management',
+       prep:'Offizielle Eskalation durch GF Martin Seidel. Alle Finance-Unterlagen und Settlement-Dokumentation bereithalten.',
+       prio:'high'},
+      {date:'2026-06-20', time:'10:00',
+       title:'🚨 C-Level-Krisensitzung',
+       attendees:'Martin Seidel, Katharina Wolf, C-Level Unzer',
+       prep:'Verbindlichen Zeitplan zur lückenlosen Aufarbeitung aller Finanzdaten präsentieren. Keine allgemeinen Aussagen.',
+       prio:'high'},
+      {date:'2026-06-26', time:'09:00',
+       title:'🚨 DEADLINE: Formale Klagedrohung',
+       attendees:'Martin Seidel, Katharina Wolf, Legal, C-Level',
+       prep:'Vollständige Finance-Transparenz muss vorliegen. Entscheidung über Fortführung der Zusammenarbeit.',
+       prio:'high'},
+      {date:'2026-07-02', time:'15:00',
+       title:'Service- und Ownership-Review',
+       attendees:'Katharina Wolf, Account Management',
+       prep:'Zentraler Owner und Eskalationswege definieren.',
+       prio:'high'},
+      {date:'2026-07-07', time:'10:00',
+       title:'QBR Kickoff',
+       attendees:'Katharina Wolf, Elisa Brandt, Sven Maurer',
+       prep:'Conversion-Daten, Zahlungsarten-Mix, Service-Level aufbereiten.',
+       prio:'medium'}
     ]
   },
+
   fitfuel: {
     name:'FitFuel Nutrition Europe', id:'CUST-003', health:'positive',
     segment:'Growth Merchant', region:'EU',
@@ -519,6 +567,7 @@ const DB = {
     payment:'Cards 58%, Apple Pay 16%, Google Pay 13%, Other 13%',
     integration:'Shopify', goLive:'2025-12-08',
     churn:'Low to Medium', growthPot:'High',
+    eskalation: null,
     contacts:[
       {name:'Sarah Klein', role:'Head of E-Commerce', email:'sarah.klein@fitfuel-demo.com', primary:true},
       {name:'Marc Weber', role:'Growth Lead', email:'marc.weber@fitfuel-demo.com'},
@@ -551,6 +600,7 @@ const DB = {
       {date:'2026-07-04', time:'10:00', title:'Growth Planning Meeting', attendees:'Sarah Klein, Marc Weber', prep:'Mobile Checkout + Subscription priorisieren', prio:'medium'}
     ]
   },
+
   nordlicht: {
     name:'Nordlicht Outdoor GmbH', id:'CUST-001', health:'medium',
     segment:'Mid-Market', region:'DACH',
@@ -559,6 +609,7 @@ const DB = {
     payment:'Cards 51%, Google Pay 13%, Apple Pay 9%, Invoice 27%',
     integration:'Shopware Plugin', goLive:'2024-11-09',
     churn:'Medium', growthPot:'High',
+    eskalation: null,
     contacts:[
       {name:'Lena Hoffmann', role:'E-Commerce Lead', email:'lena.hoffmann@nordlicht-outdoor-demo.com', primary:true},
       {name:'Tim Becker', role:'Shop Manager', email:'tim.becker@nordlicht-outdoor-demo.com'},
@@ -592,6 +643,7 @@ const DB = {
       {date:'2025-07-07', time:'15:00', title:'Monatlicher KPI-Review (Pilotformat)', attendees:'Lena Hoffmann, Paul Jensen, Tim Becker', prep:'TPV, Checkout Completion, Auth Rate aufbereiten', prio:'high'}
     ]
   },
+
   urbancraft: {
     name:'UrbanCraft Market GmbH', id:'CUST-004', health:'fragile',
     segment:'SMB / Small Mid-Market', region:'DACH',
@@ -600,6 +652,7 @@ const DB = {
     payment:'Cards 47%, Invoice 35%, Wallets 18%',
     integration:'Custom Integration', goLive:'2025-06-26',
     churn:'Medium', growthPot:'Medium',
+    eskalation: null,
     contacts:[
       {name:'Jana Seifert', role:'Operations Lead (Hauptkontakt)', email:'jana.seifert@urbancraft-demo.com', primary:true},
       {name:'Felix Krüger', role:'Managing Director (Eskalation)', email:'felix.krueger@urbancraft-demo.com'},
@@ -634,21 +687,20 @@ const DB = {
 };
 
 // ═══════════════════════════════════════
-// TERMINE FILTERN nach Urlaubszeitraum
+// TERMINE FILTERN
 // ═══════════════════════════════════════
 function filterTermine(termine, startDate, endDate) {
   if (!startDate || !endDate) return termine;
   return termine.filter(t => t.date >= startDate && t.date <= endDate);
 }
 
-function getTermineForOutput(c, d) {
+function getTermine(c, d) {
   if (d.startDate && d.endDate) {
     return filterTermine(c.termine, d.startDate, d.endDate);
   }
   return c.termine;
 }
 
-// Hinweis wenn keine Termine im Zeitraum
 function checkTermine() {
   const start = document.getElementById('v-start').value;
   const end   = document.getElementById('v-end').value;
@@ -656,29 +708,46 @@ function checkTermine() {
   if (!start || !end) { hint.classList.add('hidden'); return; }
   const custs = Array.from(selCusts['v']);
   if (custs.length === 0) { hint.classList.add('hidden'); return; }
-  const hasTermine = custs.some(cid => {
-    const filtered = filterTermine(DB[cid].termine, start, end);
-    return filtered.length > 0;
-  });
+  const hasTermine = custs.some(cid => filterTermine(DB[cid].termine, start, end).length > 0);
   hint.classList.toggle('hidden', hasTermine);
+}
+
+// ═══════════════════════════════════════
+// ESKALATIONS-BANNER
+// ═══════════════════════════════════════
+function getEskalationsBanner(c) {
+  if (!c.eskalation || !c.eskalation.aktiv) return '';
+  return `
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+🚨 ESKALATION AKTIV – ${c.eskalation.stufe}
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+  Zeitraum:  ${c.eskalation.zeitraum}
+  DEADLINE:  ${c.eskalation.deadline}
+  Status:    Eskalationsphase aktiv
+  
+  ${c.eskalation.inhalt}
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+`;
 }
 
 // ═══════════════════════════════════════
 // TEMPLATES
 // ═══════════════════════════════════════
 function genShort(c, d) {
-  const hl = {fragile:'🔴 Fragil', medium:'🟡 Medium', positive:'🟢 Positiv'}[c.health];
+  const hlMap = {escalated:'🚨 Eskalation', fragile:'🔴 Fragil', medium:'🟡 Medium', positive:'🟢 Positiv'};
+  const hl = hlMap[c.health] || '🟡 Medium';
   const from = d.name || d.fromPerson || 'Übergeber';
   const to   = d.substitute || d.toPerson || 'Empfänger';
   const zeit = d.startDate ? `${d.startDate} – ${d.endDate}` : 'laufend';
   const primary = c.contacts.find(x => x.primary) || c.contacts[0];
   const esc = c.contacts[1] || c.contacts[0];
-  const termine = getTermineForOutput(c, d);
+  const termine = getTermine(c, d);
+  const esBanner = getEskalationsBanner(c);
 
   return `━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 SHORT OVERVIEW  ·  ${c.name}
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
+${esBanner}
 ÜBERGABE
   Von:        ${from}
   An:         ${to}
@@ -694,22 +763,17 @@ KUNDENPROFIL
   Fee Rate:   ${c.feeRate}
 
 ──────────────────────────────────────────────────────────────
-TOP 5 THEMEN
+TOP THEMEN
 ──────────────────────────────────────────────────────────────
 ${c.issues.map((t,i) => `  ${i+1}. ${t}`).join('\n')}
 
 ──────────────────────────────────────────────────────────────
-TERMINE IM URLAUBSZEITRAUM (${zeit})
+TERMINE IM ZEITRAUM (${zeit})
 ──────────────────────────────────────────────────────────────
 ${termine.length > 0
-  ? termine.filter(t=>t.prio==='high').map(t=>
-      `  🔴  ${t.date}  ${t.time}  |  ${t.title}\n       Teilnehmer: ${t.attendees}\n       Prep: ${t.prep}`
-    ).join('\n\n') +
-    (termine.filter(t=>t.prio==='medium').length > 0
-      ? '\n\n' + termine.filter(t=>t.prio==='medium').map(t=>
-          `  🟡  ${t.date}  ${t.time}  |  ${t.title}\n       Teilnehmer: ${t.attendees}`
-        ).join('\n\n')
-      : '')
+  ? termine.map(t =>
+      `  ${t.prio==='high'?'🔴':'🟡'}  ${t.date}  ${t.time}  |  ${t.title}\n       Teilnehmer: ${t.attendees}\n       Prep: ${t.prep}`
+    ).join('\n\n')
   : '  Keine Termine im angegebenen Zeitraum.'
 }
 
@@ -743,16 +807,17 @@ function genEmail(c, d) {
   const zeit = d.startDate ? `${d.startDate} – ${d.endDate}` : 'ab sofort';
   const primary = c.contacts.find(x => x.primary) || c.contacts[0];
   const esc = c.contacts[1] || c.contacts[0];
-  const termine = getTermineForOutput(c, d);
+  const termine = getTermine(c, d);
+  const esBanner = getEskalationsBanner(c);
 
-  return `Betreff: Übergabe ${c.name}  |  ${from} → ${to}  |  ${zeit}
+  return `Betreff: Übergabe ${c.name}  |  ${from} → ${to}  |  ${zeit}${c.eskalation?.aktiv ? '  🚨 ESKALATION AKTIV' : ''}
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
+${esBanner}
 Hallo ${to},
 
 im Rahmen meiner Abwesenheit (${zeit}) übergebe ich dir alle relevanten Informationen zu ${c.name}.
-
+${c.eskalation?.aktiv ? '\n⚠️ ACHTUNG: Dieser Kunde befindet sich in einer aktiven Eskalationsphase. Bitte lies den Eskalationshinweis am Anfang sehr sorgfältig.\n' : ''}
 ──────────────────────────────────────────────────────────────
 KUNDENPROFIL
 ──────────────────────────────────────────────────────────────
@@ -774,7 +839,7 @@ ${c.actions.map((a,i) => `  ${i+1}. ${a}`).join('\n')}
 TERMINE IN MEINER ABWESENHEIT (${zeit})
 ──────────────────────────────────────────────────────────────
 ${termine.length > 0
-  ? termine.map(t=>
+  ? termine.map(t =>
       `  📅  ${t.date}  ${t.time}  –  ${t.title}\n       Teilnehmer: ${t.attendees}\n       Priorität: ${t.prio==='high'?'🔴 Hoch':'🟡 Mittel'}\n       Vorbereitung: ${t.prep}`
     ).join('\n\n')
   : '  Keine Termine im angegebenen Zeitraum.'
@@ -805,21 +870,22 @@ Erstellt mit Unzer Relay Handover Assistant · ${new Date().toLocaleDateString('
 function genDeadlines(c, d) {
   const from = d.name || d.fromPerson || 'Übergeber';
   const zeit = d.startDate ? `${d.startDate} – ${d.endDate}` : 'laufend';
-  const termine = getTermineForOutput(c, d);
+  const termine = getTermine(c, d);
+  const esBanner = getEskalationsBanner(c);
 
   return `━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 DEADLINES & TERMINE  ·  ${c.name}
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-  Von: ${from}  ·  Urlaubszeitraum: ${zeit}
-
+  Von: ${from}  ·  Zeitraum: ${zeit}
+${esBanner}
 ──────────────────────────────────────────────────────────────
-TERMINE IM URLAUBSZEITRAUM
+TERMINE IM ZEITRAUM
 ──────────────────────────────────────────────────────────────
 ${termine.length > 0
-  ? termine.map(t=>
+  ? termine.map(t =>
       `  ${t.prio==='high'?'🔴':'🟡'}  ${t.date}  ${t.time}\n     Termin:        ${t.title}\n     Teilnehmer:   ${t.attendees}\n     Vorbereitung:  ${t.prep}`
     ).join('\n\n')
-  : '  Keine Termine im angegebenen Zeitraum.\n  Alle Termine liegen außerhalb des Urlaubszeitraums.'
+  : '  Keine Termine im angegebenen Zeitraum.'
 }
 
 ──────────────────────────────────────────────────────────────
@@ -854,18 +920,20 @@ ${termine.length} Termin(e) im Zeitraum  ·  .ics Export verfügbar
 function genBullets(c, d) {
   const from = d.name || d.fromPerson || 'Übergeber';
   const to   = d.substitute || d.toPerson || 'Empfänger';
-  const hl   = {fragile:'🔴 Fragil', medium:'🟡 Medium', positive:'🟢 Positiv'}[c.health];
+  const hlMap = {escalated:'🚨 Eskalation', fragile:'🔴 Fragil', medium:'🟡 Medium', positive:'🟢 Positiv'};
+  const hl = hlMap[c.health] || '🟡 Medium';
   const primary = c.contacts.find(x => x.primary) || c.contacts[0];
   const esc = c.contacts[1] || c.contacts[0];
-  const termine = getTermineForOutput(c, d);
+  const termine = getTermine(c, d);
   const zeit = d.startDate ? `${d.startDate} – ${d.endDate}` : 'laufend';
+  const esBanner = getEskalationsBanner(c);
 
   return `━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 STICHPUNKT-ÜBERGABE  ·  ${c.name}
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
   Von: ${from}  →  An: ${to}
   Zeitraum: ${zeit}
-
+${esBanner}
 ──────────────────────────────────────────────────────────────
 KUNDENSTATUS
 ──────────────────────────────────────────────────────────────
@@ -882,10 +950,10 @@ OFFENE THEMEN
 ${c.issues.map(t => `  • ${t}`).join('\n')}
 
 ──────────────────────────────────────────────────────────────
-TERMINE IM URLAUBSZEITRAUM (${zeit})
+TERMINE IM ZEITRAUM (${zeit})
 ──────────────────────────────────────────────────────────────
 ${termine.length > 0
-  ? termine.map(t=>
+  ? termine.map(t =>
       `  ${t.prio==='high'?'🔴':'🟡'}  ${t.date}  ${t.time}  –  ${t.title}\n     → ${t.attendees}\n     → Prep: ${t.prep}`
     ).join('\n\n')
   : '  Keine Termine im angegebenen Urlaubszeitraum.'
@@ -920,33 +988,41 @@ Unzer Relay Handover Assistant  ·  ${new Date().toLocaleDateString('de-DE')}
 // ═══════════════════════════════════════
 // STATE
 // ═══════════════════════════════════════
-let mode=null, selCusts={v:new Set(),c:new Set()}, selFmts=new Set();
-let tags={p:[]}, results={}, activeCust=null, activeFmt=null, tilePage=0;
+let mode = null;
+let selCusts = { v: new Set(), c: new Set() };
+let selFmts  = new Set();
+let tags     = { p: [] };
+let results  = {};
+let activeCust = null, activeFmt = null;
+let tilePage = 0;
 
 // ═══════════════════════════════════════
 // NAVIGATION
 // ═══════════════════════════════════════
 function go(id) {
   ['s-start','s-form','s-output','s-result']
-    .forEach(s=>document.getElementById(s).classList.add('hidden'));
+    .forEach(s => document.getElementById(s).classList.add('hidden'));
   document.getElementById(id).classList.remove('hidden');
-  window.scrollTo(0,0);
+  window.scrollTo(0, 0);
 }
+
 function pick(m) {
-  mode=m;
+  mode = m;
   ['vacation','customer','project']
-    .forEach(f=>document.getElementById('f-'+f).classList.add('hidden'));
+    .forEach(f => document.getElementById('f-'+f).classList.add('hidden'));
   document.getElementById('f-'+m).classList.remove('hidden');
   go('s-form');
 }
-function toOutput() { if(!validate()) return; go('s-output'); }
-function slide(dir) { goPage(tilePage+dir); }
+
+function toOutput() { if (!validate()) return; go('s-output'); }
+
+function slide(dir) { goPage(tilePage + dir); }
 function goPage(n) {
-  tilePage=Math.max(0,Math.min(1,n));
-  document.querySelectorAll('.tpage').forEach((p,i)=>p.classList.toggle('active',i===tilePage));
-  document.querySelectorAll('.dot').forEach((d,i)=>d.classList.toggle('active',i===tilePage));
-  document.getElementById('arr-l').disabled=tilePage===0;
-  document.getElementById('arr-r').disabled=tilePage===1;
+  tilePage = Math.max(0, Math.min(1, n));
+  document.querySelectorAll('.tpage').forEach((p,i) => p.classList.toggle('active', i===tilePage));
+  document.querySelectorAll('.dot').forEach((d,i) => d.classList.toggle('active', i===tilePage));
+  document.getElementById('arr-l').disabled = tilePage === 0;
+  document.getElementById('arr-r').disabled = tilePage === 1;
 }
 
 // ═══════════════════════════════════════
@@ -954,55 +1030,56 @@ function goPage(n) {
 // ═══════════════════════════════════════
 function toggleCust(id, ctx, el) {
   el.classList.toggle('sel');
-  const s=selCusts[ctx];
-  s.has(id)?s.delete(id):s.add(id);
-  const si=document.getElementById(ctx+'-si');
-  si.textContent=s.size>0?`${s.size} Kunde${s.size>1?'n':''} ausgewählt`:'';
-  if(ctx==='v') checkTermine();
+  const s = selCusts[ctx];
+  s.has(id) ? s.delete(id) : s.add(id);
+  const si = document.getElementById(ctx+'-si');
+  si.textContent = s.size > 0 ? `${s.size} Kunde${s.size>1?'n':''} ausgewählt` : '';
+  if (ctx === 'v') checkTermine();
 }
 
 // ═══════════════════════════════════════
 // OUTPUT TOGGLE
 // ═══════════════════════════════════════
-function togOpt(el,val) {
+function togOpt(el, val) {
   el.classList.toggle('sel');
-  selFmts.has(val)?selFmts.delete(val):selFmts.add(val);
-  document.getElementById('btn-gen').disabled=selFmts.size===0;
-  const si=document.getElementById('fmt-si');
-  si.textContent=selFmts.size>0?`${selFmts.size} Format${selFmts.size>1?'e':''} ausgewählt`:'';
+  selFmts.has(val) ? selFmts.delete(val) : selFmts.add(val);
+  document.getElementById('btn-gen').disabled = selFmts.size === 0;
+  const si = document.getElementById('fmt-si');
+  si.textContent = selFmts.size > 0 ? `${selFmts.size} Format${selFmts.size>1?'e':''} ausgewählt` : '';
 }
 
 // ═══════════════════════════════════════
 // TAGS
 // ═══════════════════════════════════════
 function addTag(k) {
-  const inp=document.getElementById(k+'-ti');
-  const v=inp.value.trim(); if(!v)return;
-  tags[k].push(v); inp.value='';
-  document.getElementById(k+'-tags').innerHTML=
-    tags[k].map((t,i)=>`<div class="tag">${t}<button onclick="removeTag('${k}',${i})">×</button></div>`).join('');
+  const inp = document.getElementById(k+'-ti');
+  const val = inp.value.trim();
+  if (!val) return;
+  tags[k].push(val); inp.value = '';
+  document.getElementById(k+'-tags').innerHTML =
+    tags[k].map((t,i) => `<div class="tag">${t}<button onclick="removeTag('${k}',${i})">×</button></div>`).join('');
 }
-function removeTag(k,i) {
-  tags[k].splice(i,1);
-  document.getElementById(k+'-tags').innerHTML=
-    tags[k].map((t,i)=>`<div class="tag">${t}<button onclick="removeTag('${k}',${i})">×</button></div>`).join('');
+function removeTag(k, i) {
+  tags[k].splice(i, 1);
+  document.getElementById(k+'-tags').innerHTML =
+    tags[k].map((t,i) => `<div class="tag">${t}<button onclick="removeTag('${k}',${i})">×</button></div>`).join('');
 }
 
 // ═══════════════════════════════════════
 // VALIDATION
 // ═══════════════════════════════════════
-function vv(id) { const e=document.getElementById(id); return e?e.value.trim():''; }
+function vv(id) { const e = document.getElementById(id); return e ? e.value.trim() : ''; }
 function validate() {
-  if(mode==='vacation') {
-    if(!vv('v-name')||!vv('v-sub')||!vv('v-start')||!vv('v-end')) {
+  if (mode === 'vacation') {
+    if (!vv('v-name')||!vv('v-sub')||!vv('v-start')||!vv('v-end')) {
       toast('Bitte alle Pflichtfelder ausfüllen.'); return false;
     }
   }
-  if(mode==='customer') {
-    if(selCusts['c'].size===0) { toast('Bitte mindestens einen Kunden wählen.'); return false; }
-    if(!vv('c-from')||!vv('c-to')) { toast('Bitte Übergabe von/an ausfüllen.'); return false; }
+  if (mode === 'customer') {
+    if (selCusts['c'].size === 0) { toast('Bitte mindestens einen Kunden wählen.'); return false; }
+    if (!vv('c-from')||!vv('c-to')) { toast('Bitte Übergabe von/an ausfüllen.'); return false; }
   }
-  if(mode==='project' && (!vv('p-name')||!vv('p-to'))) {
+  if (mode === 'project' && (!vv('p-name')||!vv('p-to'))) {
     toast('Bitte Pflichtfelder ausfüllen.'); return false;
   }
   return true;
@@ -1012,8 +1089,8 @@ function validate() {
 // COLLECT
 // ═══════════════════════════════════════
 function collectData() {
-  if(mode==='vacation') return { name:vv('v-name'), substitute:vv('v-sub'), startDate:vv('v-start'), endDate:vv('v-end'), notes:vv('v-notes') };
-  if(mode==='customer') return { fromPerson:vv('c-from'), toPerson:vv('c-to'), notes:vv('c-notes') };
+  if (mode === 'vacation') return { name:vv('v-name'), substitute:vv('v-sub'), startDate:vv('v-start'), endDate:vv('v-end'), notes:vv('v-notes') };
+  if (mode === 'customer') return { fromPerson:vv('c-from'), toPerson:vv('c-to'), notes:vv('c-notes') };
   return { projectName:vv('p-name'), toPerson:vv('p-to'), status:vv('p-status'), todos:vv('p-todos'), risks:vv('p-risks'), links:vv('p-links') };
 }
 
@@ -1021,65 +1098,67 @@ function collectData() {
 // GENERATE
 // ═══════════════════════════════════════
 function generate() {
-  const d=collectData();
-  const custIds=Array.from(mode==='vacation'?selCusts['v']:mode==='customer'?selCusts['c']:new Set());
-  if(custIds.length===0) custIds.push('_free');
-  const fmts=Array.from(selFmts);
-  results={};
-  go('s-result');
+  const d = collectData();
+  const custIds = Array.from(mode==='vacation' ? selCusts['v'] : mode==='customer' ? selCusts['c'] : new Set());
+  if (custIds.length === 0) custIds.push('_free');
+  const fmts = Array.from(selFmts);
+  results = {};
 
-  const prog=document.getElementById('prog');
-  const progB=document.getElementById('prog-b');
-  const progT=document.getElementById('prog-t');
-  const progS=document.getElementById('prog-s');
+  go('s-result');
+  const prog   = document.getElementById('prog');
+  const progB  = document.getElementById('prog-b');
+  const progT  = document.getElementById('prog-t');
+  const progS  = document.getElementById('prog-s');
   prog.classList.remove('hidden');
   document.getElementById('ctabs').classList.add('hidden');
   document.getElementById('ftabs').classList.add('hidden');
   document.getElementById('rbox').classList.add('hidden');
   document.getElementById('ract').classList.add('hidden');
 
-  const fmtLabels={short:'Short Overview',email:'E-Mail',deadlines:'Deadlines',bullets:'Stichpunkte'};
-  const total=custIds.length*fmts.length;
-  let done=0;
+  const fmtLabels = { short:'Short Overview', email:'E-Mail', deadlines:'Deadlines', bullets:'Stichpunkte' };
+  const total = custIds.length * fmts.length;
+  let done = 0;
 
-  custIds.forEach(cid=>{
-    results[cid]={};
-    const c=DB[cid];
-    fmts.forEach(fmt=>{
-      if(cid==='_free') { results[cid][fmt]=genFree(fmt,d); }
+  custIds.forEach(cid => {
+    results[cid] = {};
+    const c = DB[cid];
+    fmts.forEach(fmt => {
+      if (cid === '_free') { results[cid][fmt] = genFree(fmt, d); }
       else {
-        if(fmt==='short')     results[cid][fmt]=genShort(c,d);
-        if(fmt==='email')     results[cid][fmt]=genEmail(c,d);
-        if(fmt==='deadlines') results[cid][fmt]=genDeadlines(c,d);
-        if(fmt==='bullets')   results[cid][fmt]=genBullets(c,d);
+        if (fmt === 'short')     results[cid][fmt] = genShort(c, d);
+        if (fmt === 'email')     results[cid][fmt] = genEmail(c, d);
+        if (fmt === 'deadlines') results[cid][fmt] = genDeadlines(c, d);
+        if (fmt === 'bullets')   results[cid][fmt] = genBullets(c, d);
       }
       done++;
-      progB.style.width=Math.round((done/total)*100)+'%';
-      progS.textContent=`${c?c.name:'Projekt'} – ${fmtLabels[fmt]} (${done}/${total})`;
+      progB.style.width = Math.round((done/total)*100) + '%';
+      progS.textContent = `${c ? c.name : 'Projekt'} – ${fmtLabels[fmt]} (${done}/${total})`;
     });
   });
 
-  progT.textContent=`✓ ${done} Dokument${done>1?'e':''} erstellt`;
-  progB.style.width='100%';
+  progT.textContent = `✓ ${done} Dokument${done>1?'e':''} erstellt`;
+  progB.style.width = '100%';
 
-  setTimeout(()=>{
+  setTimeout(() => {
     prog.classList.add('hidden');
-    activeCust=custIds[0]; activeFmt=fmts[0];
-    renderCustTabs(custIds); renderFmtTabs(fmts);
-    showResult(activeCust,activeFmt);
+    activeCust = custIds[0];
+    activeFmt  = fmts[0];
+    renderCustTabs(custIds);
+    renderFmtTabs(fmts);
+    showResult(activeCust, activeFmt);
     document.getElementById('ract').classList.remove('hidden');
-    document.getElementById('btn-mail').classList.toggle('hidden',!selFmts.has('email'));
-    document.getElementById('btn-ics').classList.toggle('hidden',!selFmts.has('deadlines'));
-  },500);
+    document.getElementById('btn-mail').classList.toggle('hidden', !selFmts.has('email'));
+    document.getElementById('btn-ics').classList.toggle('hidden', !selFmts.has('deadlines'));
+  }, 500);
 }
 
-function genFree(fmt,d) {
-  const from=d.projectName||'Übergeber';
-  const to=d.toPerson||'Empfänger';
-  if(fmt==='short')     return `SHORT OVERVIEW\n${'━'.repeat(50)}\nProjekt: ${from} → An: ${to}\n\nStatus: ${d.status||'–'}\nAufgaben: ${d.todos||'–'}\nRisiken: ${d.risks||'–'}`;
-  if(fmt==='email')     return `Betreff: Projektübergabe ${from} → ${to}\n\nHallo ${to},\nhiermit übergebe ich das Projekt.\n\nStatus: ${d.status||'–'}\nAufgaben: ${d.todos||'–'}\nRisiken: ${d.risks||'–'}\n\nViele Grüße`;
-  if(fmt==='deadlines') return `DEADLINES & TERMINE\n${'━'.repeat(50)}\nProjekt: ${from}\n\nAufgaben:\n${d.todos||'–'}\n\nRisiken:\n${d.risks||'–'}`;
-  if(fmt==='bullets')   return `STICHPUNKT-ÜBERGABE\n${'━'.repeat(50)}\n${from} → ${to}\n\n• Status: ${d.status||'–'}\n• Aufgaben: ${d.todos||'–'}\n• Risiken: ${d.risks||'–'}`;
+function genFree(fmt, d) {
+  const from = d.projectName || 'Übergeber';
+  const to   = d.toPerson || 'Empfänger';
+  if (fmt==='short')     return `SHORT OVERVIEW\n${'━'.repeat(50)}\nProjekt: ${from} → An: ${to}\n\nStatus: ${d.status||'–'}\nAufgaben: ${d.todos||'–'}\nRisiken: ${d.risks||'–'}`;
+  if (fmt==='email')     return `Betreff: Projektübergabe ${from} → ${to}\n\nHallo ${to},\nhiermit übergebe ich das Projekt.\n\nStatus: ${d.status||'–'}\nAufgaben: ${d.todos||'–'}\nRisiken: ${d.risks||'–'}\n\nViele Grüße`;
+  if (fmt==='deadlines') return `DEADLINES & TERMINE\n${'━'.repeat(50)}\nProjekt: ${from}\n\nAufgaben:\n${d.todos||'–'}\n\nRisiken:\n${d.risks||'–'}`;
+  if (fmt==='bullets')   return `STICHPUNKT-ÜBERGABE\n${'━'.repeat(50)}\n${from} → ${to}\n\n• Status: ${d.status||'–'}\n• Aufgaben: ${d.todos||'–'}\n• Risiken: ${d.risks||'–'}`;
   return '';
 }
 
@@ -1087,35 +1166,42 @@ function genFree(fmt,d) {
 // TABS
 // ═══════════════════════════════════════
 function renderCustTabs(ids) {
-  const el=document.getElementById('ctabs');
-  el.innerHTML=ids.map(id=>{
-    const name=id==='_free'?'Projekt':DB[id]?.name||id;
-    return `<div class="ctab${id===activeCust?' active':''}" onclick="switchCust('${id}')">${name}</div>`;
+  const el = document.getElementById('ctabs');
+  el.innerHTML = ids.map(id => {
+    const name = id === '_free' ? 'Projekt' : DB[id]?.name || id;
+    const hasEsk = id !== '_free' && DB[id]?.eskalation?.aktiv;
+    return `<div class="ctab${id===activeCust?' active':''}" onclick="switchCust('${id}')">${hasEsk?'🚨 ':''}${name}</div>`;
   }).join('');
   el.classList.remove('hidden');
 }
+
 function renderFmtTabs(fmts) {
-  const labels={short:'Short Overview',email:'E-Mail',deadlines:'Deadlines',bullets:'Stichpunkte'};
-  const el=document.getElementById('ftabs');
-  el.innerHTML=fmts.map(f=>`<div class="ftab${f===activeFmt?' active':''}" onclick="switchFmt('${f}')">${labels[f]}</div>`).join('');
+  const labels = { short:'Short Overview', email:'E-Mail', deadlines:'Deadlines', bullets:'Stichpunkte' };
+  const el = document.getElementById('ftabs');
+  el.innerHTML = fmts.map(f =>
+    `<div class="ftab${f===activeFmt?' active':''}" onclick="switchFmt('${f}')">${labels[f]}</div>`
+  ).join('');
   el.classList.remove('hidden');
 }
+
 function switchCust(id) {
-  activeCust=id;
-  document.querySelectorAll('.ctab').forEach((el,i)=>
-    el.classList.toggle('active',Object.keys(results)[i]===id));
-  showResult(activeCust,activeFmt);
+  activeCust = id;
+  document.querySelectorAll('.ctab').forEach((el, i) =>
+    el.classList.toggle('active', Object.keys(results)[i] === id));
+  showResult(activeCust, activeFmt);
 }
+
 function switchFmt(f) {
-  activeFmt=f;
-  const labels={short:'Short Overview',email:'E-Mail',deadlines:'Deadlines',bullets:'Stichpunkte'};
-  document.querySelectorAll('.ftab').forEach(el=>
-    el.classList.toggle('active',el.textContent===labels[f]));
-  showResult(activeCust,activeFmt);
+  activeFmt = f;
+  const labels = { short:'Short Overview', email:'E-Mail', deadlines:'Deadlines', bullets:'Stichpunkte' };
+  document.querySelectorAll('.ftab').forEach(el =>
+    el.classList.toggle('active', el.textContent === labels[f]));
+  showResult(activeCust, activeFmt);
 }
-function showResult(cid,fmt) {
-  const box=document.getElementById('rbox');
-  box.textContent=(results[cid]&&results[cid][fmt])||'';
+
+function showResult(cid, fmt) {
+  const box = document.getElementById('rbox');
+  box.textContent = (results[cid] && results[cid][fmt]) || '';
   box.classList.remove('hidden');
 }
 
@@ -1123,64 +1209,73 @@ function showResult(cid,fmt) {
 // AKTIONEN
 // ═══════════════════════════════════════
 function copyRes() {
-  const t=(results[activeCust]&&results[activeCust][activeFmt])||'';
-  navigator.clipboard.writeText(t).then(()=>toast('✓ Kopiert.'));
+  const t = (results[activeCust] && results[activeCust][activeFmt]) || '';
+  navigator.clipboard.writeText(t).then(() => toast('✓ Kopiert.'));
 }
+
 function doMailto() {
-  const emailText=results[activeCust]?.['email']||Object.values(results[activeCust]||{})[0]||'';
-  const cname=activeCust!=='_free'?DB[activeCust]?.name||'':activeCust;
-  window.location.href=`mailto:?subject=${encodeURIComponent('Übergabe '+cname)}&body=${encodeURIComponent(emailText)}`;
+  const emailText = results[activeCust]?.['email'] || Object.values(results[activeCust]||{})[0] || '';
+  const cname = activeCust !== '_free' ? DB[activeCust]?.name || '' : '';
+  window.location.href = `mailto:?subject=${encodeURIComponent('Übergabe '+cname)}&body=${encodeURIComponent(emailText)}`;
 }
+
 function icsExport() {
-  const d=collectData();
-  const ids=Object.keys(results).filter(id=>id!=='_free'&&DB[id]);
-  const allEvents=[];
-  ids.forEach(cid=>{
-    const termine = getTermineForOutput(DB[cid], d);
-    termine.forEach((t,i)=>{
-      const tp=t.time?t.time.replace(':',''):'1000';
-      const dt=t.date.replace(/-/g,'')+`T${tp}00`;
-      const [h,m]=t.time?t.time.split(':'):['10','00'];
-      const eH=String(parseInt(h)+1).padStart(2,'0');
-      const de=t.date.replace(/-/g,'')+`T${eH}${m}00`;
-      allEvents.push('BEGIN:VEVENT',
+  const d = collectData();
+  const ids = Object.keys(results).filter(id => id !== '_free' && DB[id]);
+  const allEvents = [];
+  ids.forEach(cid => {
+    const termine = getTermine(DB[cid], d);
+    termine.forEach((t, i) => {
+      const tp = t.time ? t.time.replace(':', '') : '1000';
+      const dt = t.date.replace(/-/g, '') + `T${tp}00`;
+      const [h, m] = t.time ? t.time.split(':') : ['10','00'];
+      const eH = String(parseInt(h)+1).padStart(2,'0');
+      const de = t.date.replace(/-/g, '') + `T${eH}${m}00`;
+      allEvents.push(
+        'BEGIN:VEVENT',
         `UID:relay-${cid}-${i}-${Date.now()}@unzer.com`,
         `DTSTAMP:${new Date().toISOString().replace(/[-:.]/g,'').slice(0,15)}Z`,
-        `DTSTART:${dt}`,`DTEND:${de}`,
+        `DTSTART:${dt}`, `DTEND:${de}`,
         `SUMMARY:${DB[cid].name}: ${t.title}`,
         `DESCRIPTION:Teilnehmer: ${t.attendees}\\nPrep: ${t.prep}\\nPrio: ${t.prio==='high'?'🔴 Hoch':'🟡 Mittel'}`,
-        'END:VEVENT');
+        'END:VEVENT'
+      );
     });
   });
-  if(!allEvents.length){toast('Keine Termine im Zeitraum für Export.');return;}
-  const lines=['BEGIN:VCALENDAR','VERSION:2.0','PRODID:-//Unzer Relay//DE','X-WR-CALNAME:Unzer Relay Handover',...allEvents,'END:VCALENDAR'];
-  const blob=new Blob([lines.join('\r\n')],{type:'text/calendar'});
-  const a=Object.assign(document.createElement('a'),{href:URL.createObjectURL(blob),download:`relay-handover-${Date.now()}.ics`});
+  if (!allEvents.length) { toast('Keine Termine im Zeitraum für Export.'); return; }
+  const lines = ['BEGIN:VCALENDAR','VERSION:2.0','PRODID:-//Unzer Relay//DE','X-WR-CALNAME:Unzer Relay Handover',...allEvents,'END:VCALENDAR'];
+  const blob = new Blob([lines.join('\r\n')], { type: 'text/calendar' });
+  const a = Object.assign(document.createElement('a'), { href: URL.createObjectURL(blob), download: `relay-handover-${Date.now()}.ics` });
   a.click(); URL.revokeObjectURL(a.href);
-  toast(`✓ ${allEvents.length/9} Termin(e) im Zeitraum exportiert.`);
+  toast(`✓ ${allEvents.length} Termin(e) exportiert.`);
 }
 
 function reset() {
-  mode=null; selCusts={v:new Set(),c:new Set()}; selFmts.clear();
-  tags={p:[]}; results={}; activeCust=null; activeFmt=null;
-  document.querySelectorAll('input,textarea,select').forEach(el=>el.value='');
-  document.querySelectorAll('.opt,.cust-card').forEach(el=>el.classList.remove('sel'));
-  document.querySelectorAll('.tr').forEach(el=>el.innerHTML='');
-  document.querySelectorAll('.sel-info').forEach(el=>el.textContent='');
-  document.getElementById('termine-hint')?.classList.add('hidden');
-  document.getElementById('btn-gen').disabled=true;
-  goPage(0); go('s-start');
+  mode = null;
+  selCusts = { v: new Set(), c: new Set() };
+  selFmts.clear();
+  tags = { p: [] };
+  results = {}; activeCust = null; activeFmt = null;
+  document.querySelectorAll('input,textarea,select').forEach(el => el.value = '');
+  document.querySelectorAll('.opt,.cust-card').forEach(el => el.classList.remove('sel'));
+  document.querySelectorAll('.tr').forEach(el => el.innerHTML = '');
+  document.querySelectorAll('.sel-info').forEach(el => el.textContent = '');
+  const th = document.getElementById('termine-hint');
+  if (th) th.classList.add('hidden');
+  document.getElementById('btn-gen').disabled = true;
+  goPage(0);
+  go('s-start');
 }
 
 function toast(msg) {
-  const el=document.getElementById('toast');
-  el.textContent=msg; el.classList.add('show');
-  setTimeout(()=>el.classList.remove('show'),3500);
+  const el = document.getElementById('toast');
+  el.textContent = msg; el.classList.add('show');
+  setTimeout(() => el.classList.remove('show'), 3500);
 }
 
-document.addEventListener('keydown',e=>{
-  if(e.key!=='Enter')return;
-  if(e.target.id==='p-ti')addTag('p');
+document.addEventListener('keydown', e => {
+  if (e.key !== 'Enter') return;
+  if (e.target.id === 'p-ti') addTag('p');
 });
 </script>
 </body>
